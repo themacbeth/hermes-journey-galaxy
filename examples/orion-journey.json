@@ -1,0 +1,1941 @@
+{
+ "name": "ORION",
+ "nodes": [
+  {
+   "id": "rss-feeds",
+   "label": "rss-feeds",
+   "kind": "skill",
+   "timestamp": 1783910022,
+   "category": "research",
+   "useCount": 22,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans",
+   "label": "writing-plans",
+   "kind": "skill",
+   "timestamp": 1787263108,
+   "category": "software-development",
+   "useCount": 15,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues",
+   "label": "github-issues",
+   "kind": "skill",
+   "timestamp": 1784029588,
+   "category": "software-development",
+   "useCount": 23,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes",
+   "label": "release-notes",
+   "kind": "skill",
+   "timestamp": 1791944308,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code",
+   "label": "simplify-code",
+   "kind": "skill",
+   "timestamp": 1780530379,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "eval-harness",
+   "label": "eval-harness",
+   "kind": "skill",
+   "timestamp": 1786517252,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor",
+   "label": "competitor-news-monitor",
+   "kind": "skill",
+   "timestamp": 1784451654,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting",
+   "label": "dataset-scouting",
+   "kind": "skill",
+   "timestamp": 1787398717,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search",
+   "label": "patent-search",
+   "kind": "skill",
+   "timestamp": 1785592195,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "fine-tuning-with-trl",
+   "label": "fine-tuning-with-trl",
+   "kind": "skill",
+   "timestamp": 1779928974,
+   "category": "mlops",
+   "useCount": 321,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "benchmark-reading",
+   "label": "benchmark-reading",
+   "kind": "skill",
+   "timestamp": 1786672053,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "huggingface-hub",
+   "label": "huggingface-hub",
+   "kind": "skill",
+   "timestamp": 1779808802,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-code-review",
+   "label": "github-code-review",
+   "kind": "skill",
+   "timestamp": 1789952176,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "flaky-test-triage",
+   "label": "flaky-test-triage",
+   "kind": "skill",
+   "timestamp": 1780103611,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "tokenizer-checks",
+   "label": "tokenizer-checks",
+   "kind": "skill",
+   "timestamp": 1784330997,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "lora-merges",
+   "label": "lora-merges",
+   "kind": "skill",
+   "timestamp": 1784534418,
+   "category": "mlops",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development",
+   "label": "test-driven-development",
+   "kind": "skill",
+   "timestamp": 1789486467,
+   "category": "software-development",
+   "useCount": 15,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "vllm-serving",
+   "label": "vllm-serving",
+   "kind": "skill",
+   "timestamp": 1789366507,
+   "category": "mlops",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv",
+   "label": "arxiv",
+   "kind": "skill",
+   "timestamp": 1780211471,
+   "category": "research",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weights-and-biases",
+   "label": "weights-and-biases",
+   "kind": "skill",
+   "timestamp": 1791653190,
+   "category": "mlops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spike",
+   "label": "spike",
+   "kind": "skill",
+   "timestamp": 1784068029,
+   "category": "software-development",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan",
+   "label": "plan",
+   "kind": "skill",
+   "timestamp": 1791929377,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries",
+   "label": "paper-summaries",
+   "kind": "skill",
+   "timestamp": 1780172127,
+   "category": "research",
+   "useCount": 19,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow",
+   "label": "github-pr-workflow",
+   "kind": "skill",
+   "timestamp": 1781412121,
+   "category": "software-development",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dogfood",
+   "label": "dogfood",
+   "kind": "skill",
+   "timestamp": 1792979011,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection",
+   "label": "codebase-inspection",
+   "kind": "skill",
+   "timestamp": 1783582312,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging",
+   "label": "systematic-debugging",
+   "kind": "skill",
+   "timestamp": 1785524851,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations",
+   "label": "grounded-citations",
+   "kind": "skill",
+   "timestamp": 1781123177,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-cleaning",
+   "label": "dataset-cleaning",
+   "kind": "skill",
+   "timestamp": 1784492259,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket",
+   "label": "polymarket",
+   "kind": "skill",
+   "timestamp": 1788964701,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks",
+   "label": "api-contract-checks",
+   "kind": "skill",
+   "timestamp": 1784011795,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts",
+   "label": "migration-scripts",
+   "kind": "skill",
+   "timestamp": 1787419639,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review",
+   "label": "literature-review",
+   "kind": "skill",
+   "timestamp": 1791505508,
+   "category": "research",
+   "useCount": 19,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review",
+   "label": "requesting-code-review",
+   "kind": "skill",
+   "timestamp": 1781931742,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling",
+   "label": "perf-profiling",
+   "kind": "skill",
+   "timestamp": 1781673537,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "subagent-driven-development",
+   "label": "subagent-driven-development",
+   "kind": "skill",
+   "timestamp": 1780079267,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades",
+   "label": "dependency-upgrades",
+   "kind": "skill",
+   "timestamp": 1781352338,
+   "category": "software-development",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gguf-quantization",
+   "label": "gguf-quantization",
+   "kind": "skill",
+   "timestamp": 1783553268,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "refactor-safely",
+   "label": "refactor-safely",
+   "kind": "skill",
+   "timestamp": 1781863792,
+   "category": "software-development",
+   "useCount": 16,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher",
+   "label": "blogwatcher",
+   "kind": "skill",
+   "timestamp": 1783292144,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "llama-cpp",
+   "label": "llama-cpp",
+   "kind": "skill",
+   "timestamp": 1791596279,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code-batch",
+   "label": "simplify-code-batch",
+   "kind": "skill",
+   "timestamp": 1787402500,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading-local",
+   "label": "benchmark-reading-local",
+   "kind": "skill",
+   "timestamp": 1791329872,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "tokenizer-checks-review",
+   "label": "tokenizer-checks-review",
+   "kind": "skill",
+   "timestamp": 1784872212,
+   "category": "mlops",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan-batch",
+   "label": "plan-batch",
+   "kind": "skill",
+   "timestamp": 1786222613,
+   "category": "software-development",
+   "useCount": 42,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search-batch",
+   "label": "patent-search-batch",
+   "kind": "skill",
+   "timestamp": 1788093429,
+   "category": "research",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spike-notes",
+   "label": "spike-notes",
+   "kind": "skill",
+   "timestamp": 1787738419,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-code-review-batch",
+   "label": "github-code-review-batch",
+   "kind": "skill",
+   "timestamp": 1792297865,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search-deep",
+   "label": "patent-search-deep",
+   "kind": "skill",
+   "timestamp": 1785205652,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "lora-merges-lite",
+   "label": "lora-merges-lite",
+   "kind": "skill",
+   "timestamp": 1783591792,
+   "category": "mlops",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket-review",
+   "label": "polymarket-review",
+   "kind": "skill",
+   "timestamp": 1789119258,
+   "category": "research",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow-deep",
+   "label": "github-pr-workflow-deep",
+   "kind": "skill",
+   "timestamp": 1787324474,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting-review",
+   "label": "dataset-scouting-review",
+   "kind": "skill",
+   "timestamp": 1780275234,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "fine-tuning-with-trl-lite",
+   "label": "fine-tuning-with-trl-lite",
+   "kind": "skill",
+   "timestamp": 1782900824,
+   "category": "mlops",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-deep",
+   "label": "paper-summaries-deep",
+   "kind": "skill",
+   "timestamp": 1780145906,
+   "category": "research",
+   "useCount": 17,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes-notes",
+   "label": "release-notes-notes",
+   "kind": "skill",
+   "timestamp": 1793021251,
+   "category": "software-development",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weights-and-biases-review",
+   "label": "weights-and-biases-review",
+   "kind": "skill",
+   "timestamp": 1782294552,
+   "category": "mlops",
+   "useCount": 14,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "huggingface-hub-ops",
+   "label": "huggingface-hub-ops",
+   "kind": "skill",
+   "timestamp": 1785639051,
+   "category": "mlops",
+   "useCount": 14,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review-ops",
+   "label": "requesting-code-review-ops",
+   "kind": "skill",
+   "timestamp": 1781451379,
+   "category": "software-development",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling-lite",
+   "label": "perf-profiling-lite",
+   "kind": "skill",
+   "timestamp": 1780951320,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades-local",
+   "label": "dependency-upgrades-local",
+   "kind": "skill",
+   "timestamp": 1782080718,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review-review",
+   "label": "requesting-code-review-review",
+   "kind": "skill",
+   "timestamp": 1786328909,
+   "category": "software-development",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "eval-harness-notes",
+   "label": "eval-harness-notes",
+   "kind": "skill",
+   "timestamp": 1783833099,
+   "category": "mlops",
+   "useCount": 19,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "tokenizer-checks-notes",
+   "label": "tokenizer-checks-notes",
+   "kind": "skill",
+   "timestamp": 1791006097,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code-review",
+   "label": "simplify-code-review",
+   "kind": "skill",
+   "timestamp": 1788066866,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review-batch",
+   "label": "literature-review-batch",
+   "kind": "skill",
+   "timestamp": 1783576282,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading-review",
+   "label": "benchmark-reading-review",
+   "kind": "skill",
+   "timestamp": 1785070034,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "llama-cpp-ops",
+   "label": "llama-cpp-ops",
+   "kind": "skill",
+   "timestamp": 1779689450,
+   "category": "mlops",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-review",
+   "label": "competitor-news-monitor-review",
+   "kind": "skill",
+   "timestamp": 1780028345,
+   "category": "research",
+   "useCount": 19,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks-lite",
+   "label": "api-contract-checks-lite",
+   "kind": "skill",
+   "timestamp": 1793139995,
+   "category": "software-development",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "refactor-safely-local",
+   "label": "refactor-safely-local",
+   "kind": "skill",
+   "timestamp": 1784434898,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-ops",
+   "label": "paper-summaries-ops",
+   "kind": "skill",
+   "timestamp": 1779913350,
+   "category": "research",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts-local",
+   "label": "migration-scripts-local",
+   "kind": "skill",
+   "timestamp": 1788450575,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues-batch",
+   "label": "github-issues-batch",
+   "kind": "skill",
+   "timestamp": 1783194365,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "fine-tuning-with-trl-local",
+   "label": "fine-tuning-with-trl-local",
+   "kind": "skill",
+   "timestamp": 1782190871,
+   "category": "mlops",
+   "useCount": 37,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans-local",
+   "label": "writing-plans-local",
+   "kind": "skill",
+   "timestamp": 1788623254,
+   "category": "software-development",
+   "useCount": 26,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gguf-quantization-local",
+   "label": "gguf-quantization-local",
+   "kind": "skill",
+   "timestamp": 1780596940,
+   "category": "mlops",
+   "useCount": 22,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling-notes",
+   "label": "perf-profiling-notes",
+   "kind": "skill",
+   "timestamp": 1781790539,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv-batch",
+   "label": "arxiv-batch",
+   "kind": "skill",
+   "timestamp": 1780065651,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection-deep",
+   "label": "codebase-inspection-deep",
+   "kind": "skill",
+   "timestamp": 1793101757,
+   "category": "software-development",
+   "useCount": 17,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "flaky-test-triage-notes",
+   "label": "flaky-test-triage-notes",
+   "kind": "skill",
+   "timestamp": 1783521695,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans-batch",
+   "label": "writing-plans-batch",
+   "kind": "skill",
+   "timestamp": 1787506615,
+   "category": "software-development",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations-lite",
+   "label": "grounded-citations-lite",
+   "kind": "skill",
+   "timestamp": 1787716859,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts-ops",
+   "label": "migration-scripts-ops",
+   "kind": "skill",
+   "timestamp": 1779709673,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code-local",
+   "label": "simplify-code-local",
+   "kind": "skill",
+   "timestamp": 1789197234,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan-notes",
+   "label": "plan-notes",
+   "kind": "skill",
+   "timestamp": 1781351047,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues-review",
+   "label": "github-issues-review",
+   "kind": "skill",
+   "timestamp": 1786569382,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development-lite",
+   "label": "test-driven-development-lite",
+   "kind": "skill",
+   "timestamp": 1784327378,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-ops",
+   "label": "blogwatcher-ops",
+   "kind": "skill",
+   "timestamp": 1790503707,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks-review",
+   "label": "api-contract-checks-review",
+   "kind": "skill",
+   "timestamp": 1782340543,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-deep",
+   "label": "blogwatcher-deep",
+   "kind": "skill",
+   "timestamp": 1787643166,
+   "category": "research",
+   "useCount": 18,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spike-batch",
+   "label": "spike-batch",
+   "kind": "skill",
+   "timestamp": 1781695922,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-batch",
+   "label": "paper-summaries-batch",
+   "kind": "skill",
+   "timestamp": 1781098326,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gguf-quantization-ops",
+   "label": "gguf-quantization-ops",
+   "kind": "skill",
+   "timestamp": 1789200477,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-local",
+   "label": "blogwatcher-local",
+   "kind": "skill",
+   "timestamp": 1791593633,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations-ops",
+   "label": "grounded-citations-ops",
+   "kind": "skill",
+   "timestamp": 1786059120,
+   "category": "research",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:0",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1785180724,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:1",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1787318909,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:2",
+   "label": "people and roles",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1783893065,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:3",
+   "label": "people and roles",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1789665900,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:4",
+   "label": "style guide",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1790574715,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:5",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788130163,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:6",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1780354937,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:7",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1780786768,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:8",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1790764332,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:9",
+   "label": "favorite tools",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788833466,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:10",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1781152792,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:11",
+   "label": "people and roles",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1786520353,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:12",
+   "label": "review style",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1789010377,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:13",
+   "label": "style guide",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784533641,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:14",
+   "label": "style guide",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1782719296,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:15",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1785234861,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:16",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1790971953,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:17",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788355448,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:18",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784200761,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:19",
+   "label": "deploy steps",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784189453,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:20",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1784918045,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:21",
+   "label": "deploy steps",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1780157156,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:22",
+   "label": "release checklist",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1786505299,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:23",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784476284,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:24",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1782876062,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:orion:25",
+   "label": "review style",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1787190133,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "rss-feeds",
+   "target": "literature-review"
+  },
+  {
+   "source": "writing-plans",
+   "target": "test-driven-development-lite"
+  },
+  {
+   "source": "writing-plans",
+   "target": "api-contract-checks-review"
+  },
+  {
+   "source": "github-issues",
+   "target": "github-pr-workflow-deep"
+  },
+  {
+   "source": "github-issues",
+   "target": "github-code-review-batch"
+  },
+  {
+   "source": "release-notes",
+   "target": "dependency-upgrades-local"
+  },
+  {
+   "source": "release-notes",
+   "target": "migration-scripts-local"
+  },
+  {
+   "source": "simplify-code",
+   "target": "dependency-upgrades"
+  },
+  {
+   "source": "simplify-code",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "eval-harness",
+   "target": "fine-tuning-with-trl-lite"
+  },
+  {
+   "source": "eval-harness",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "dataset-scouting",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "patent-search",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "patent-search",
+   "target": "benchmark-reading-local"
+  },
+  {
+   "source": "fine-tuning-with-trl",
+   "target": "huggingface-hub"
+  },
+  {
+   "source": "fine-tuning-with-trl",
+   "target": "fine-tuning-with-trl-lite"
+  },
+  {
+   "source": "benchmark-reading",
+   "target": "benchmark-reading-review"
+  },
+  {
+   "source": "github-code-review",
+   "target": "github-issues-batch"
+  },
+  {
+   "source": "flaky-test-triage",
+   "target": "release-notes"
+  },
+  {
+   "source": "tokenizer-checks",
+   "target": "huggingface-hub"
+  },
+  {
+   "source": "lora-merges",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "test-driven-development",
+   "target": "github-pr-workflow-deep"
+  },
+  {
+   "source": "arxiv",
+   "target": "benchmark-reading-review"
+  },
+  {
+   "source": "arxiv",
+   "target": "blogwatcher-deep"
+  },
+  {
+   "source": "spike",
+   "target": "github-code-review"
+  },
+  {
+   "source": "plan",
+   "target": "github-issues-review"
+  },
+  {
+   "source": "paper-summaries",
+   "target": "paper-summaries-ops"
+  },
+  {
+   "source": "paper-summaries",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "github-pr-workflow",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "dogfood",
+   "target": "flaky-test-triage-notes"
+  },
+  {
+   "source": "dogfood",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "plan-batch"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "grounded-citations",
+   "target": "polymarket"
+  },
+  {
+   "source": "dataset-cleaning",
+   "target": "vllm-serving"
+  },
+  {
+   "source": "dataset-cleaning",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "migration-scripts",
+   "target": "simplify-code-review"
+  },
+  {
+   "source": "literature-review",
+   "target": "paper-summaries-batch"
+  },
+  {
+   "source": "requesting-code-review",
+   "target": "simplify-code-batch"
+  },
+  {
+   "source": "dependency-upgrades",
+   "target": "github-pr-workflow-deep"
+  },
+  {
+   "source": "gguf-quantization",
+   "target": "fine-tuning-with-trl-lite"
+  },
+  {
+   "source": "refactor-safely",
+   "target": "requesting-code-review-ops"
+  },
+  {
+   "source": "llama-cpp",
+   "target": "gguf-quantization"
+  },
+  {
+   "source": "simplify-code-batch",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "benchmark-reading-local",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "tokenizer-checks-review",
+   "target": "tokenizer-checks"
+  },
+  {
+   "source": "plan-batch",
+   "target": "api-contract-checks-review"
+  },
+  {
+   "source": "plan-batch",
+   "target": "simplify-code-batch"
+  },
+  {
+   "source": "spike-notes",
+   "target": "spike"
+  },
+  {
+   "source": "spike-notes",
+   "target": "migration-scripts-local"
+  },
+  {
+   "source": "github-code-review-batch",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "patent-search-deep",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "lora-merges-lite",
+   "target": "fine-tuning-with-trl-local"
+  },
+  {
+   "source": "polymarket-review",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "github-pr-workflow-deep",
+   "target": "plan-notes"
+  },
+  {
+   "source": "github-pr-workflow-deep",
+   "target": "simplify-code-local"
+  },
+  {
+   "source": "dataset-scouting-review",
+   "target": "polymarket-review"
+  },
+  {
+   "source": "paper-summaries-deep",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "release-notes-notes",
+   "target": "requesting-code-review-review"
+  },
+  {
+   "source": "release-notes-notes",
+   "target": "migration-scripts"
+  },
+  {
+   "source": "weights-and-biases-review",
+   "target": "vllm-serving"
+  },
+  {
+   "source": "weights-and-biases-review",
+   "target": "lora-merges-lite"
+  },
+  {
+   "source": "requesting-code-review-ops",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "perf-profiling-lite",
+   "target": "writing-plans-batch"
+  },
+  {
+   "source": "perf-profiling-lite",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "requesting-code-review-review",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "requesting-code-review-review",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "eval-harness-notes",
+   "target": "tokenizer-checks-review"
+  },
+  {
+   "source": "simplify-code-review",
+   "target": "dependency-upgrades"
+  },
+  {
+   "source": "simplify-code-review",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "literature-review-batch",
+   "target": "patent-search"
+  },
+  {
+   "source": "benchmark-reading-review",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "benchmark-reading-review",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "llama-cpp-ops",
+   "target": "weights-and-biases-review"
+  },
+  {
+   "source": "llama-cpp-ops",
+   "target": "lora-merges"
+  },
+  {
+   "source": "api-contract-checks-lite",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "api-contract-checks-lite",
+   "target": "release-notes"
+  },
+  {
+   "source": "paper-summaries-ops",
+   "target": "rss-feeds"
+  },
+  {
+   "source": "migration-scripts-local",
+   "target": "dependency-upgrades"
+  },
+  {
+   "source": "migration-scripts-local",
+   "target": "github-issues-batch"
+  },
+  {
+   "source": "github-issues-batch",
+   "target": "dogfood"
+  },
+  {
+   "source": "fine-tuning-with-trl-local",
+   "target": "tokenizer-checks"
+  },
+  {
+   "source": "gguf-quantization-local",
+   "target": "llama-cpp"
+  },
+  {
+   "source": "arxiv-batch",
+   "target": "paper-summaries-ops"
+  },
+  {
+   "source": "codebase-inspection-deep",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "codebase-inspection-deep",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "writing-plans-batch",
+   "target": "codebase-inspection-deep"
+  },
+  {
+   "source": "grounded-citations-lite",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "migration-scripts-ops",
+   "target": "perf-profiling-notes"
+  },
+  {
+   "source": "migration-scripts-ops",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "simplify-code-local",
+   "target": "api-contract-checks-lite"
+  },
+  {
+   "source": "simplify-code-local",
+   "target": "perf-profiling-notes"
+  },
+  {
+   "source": "simplify-code-local",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "github-issues-review",
+   "target": "api-contract-checks"
+  },
+  {
+   "source": "test-driven-development-lite",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "test-driven-development-lite",
+   "target": "subagent-driven-development"
+  },
+  {
+   "source": "api-contract-checks-review",
+   "target": "refactor-safely-local"
+  },
+  {
+   "source": "blogwatcher-deep",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "spike-batch",
+   "target": "github-pr-workflow-deep"
+  },
+  {
+   "source": "paper-summaries-batch",
+   "target": "blogwatcher-ops"
+  },
+  {
+   "source": "paper-summaries-batch",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "blogwatcher-local",
+   "target": "paper-summaries-ops"
+  },
+  {
+   "source": "grounded-citations-ops",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "memory:orion:0",
+   "target": "requesting-code-review-review"
+  },
+  {
+   "source": "memory:orion:0",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "memory:orion:1",
+   "target": "dependency-upgrades-local"
+  },
+  {
+   "source": "memory:orion:1",
+   "target": "github-issues-review"
+  },
+  {
+   "source": "memory:orion:1",
+   "target": "fine-tuning-with-trl-lite"
+  },
+  {
+   "source": "memory:orion:1",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "memory:orion:2",
+   "target": "paper-summaries-ops"
+  },
+  {
+   "source": "memory:orion:2",
+   "target": "polymarket-review"
+  },
+  {
+   "source": "memory:orion:2",
+   "target": "api-contract-checks"
+  },
+  {
+   "source": "memory:orion:3",
+   "target": "paper-summaries-batch"
+  },
+  {
+   "source": "memory:orion:3",
+   "target": "blogwatcher-local"
+  },
+  {
+   "source": "memory:orion:3",
+   "target": "perf-profiling-lite"
+  },
+  {
+   "source": "memory:orion:4",
+   "target": "migration-scripts-ops"
+  },
+  {
+   "source": "memory:orion:4",
+   "target": "codebase-inspection"
+  },
+  {
+   "source": "memory:orion:5",
+   "target": "arxiv-batch"
+  },
+  {
+   "source": "memory:orion:5",
+   "target": "gguf-quantization-local"
+  },
+  {
+   "source": "memory:orion:6",
+   "target": "test-driven-development-lite"
+  },
+  {
+   "source": "memory:orion:6",
+   "target": "simplify-code"
+  },
+  {
+   "source": "memory:orion:7",
+   "target": "dataset-scouting-review"
+  },
+  {
+   "source": "memory:orion:7",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "memory:orion:7",
+   "target": "api-contract-checks-lite"
+  },
+  {
+   "source": "memory:orion:7",
+   "target": "gguf-quantization-ops"
+  },
+  {
+   "source": "memory:orion:8",
+   "target": "github-issues-batch"
+  },
+  {
+   "source": "memory:orion:8",
+   "target": "github-issues-review"
+  },
+  {
+   "source": "memory:orion:9",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "memory:orion:9",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "memory:orion:9",
+   "target": "github-code-review-batch"
+  },
+  {
+   "source": "memory:orion:10",
+   "target": "simplify-code"
+  },
+  {
+   "source": "memory:orion:11",
+   "target": "requesting-code-review-ops"
+  },
+  {
+   "source": "memory:orion:11",
+   "target": "github-issues-review"
+  },
+  {
+   "source": "memory:orion:12",
+   "target": "test-driven-development-lite"
+  },
+  {
+   "source": "memory:orion:12",
+   "target": "literature-review"
+  },
+  {
+   "source": "memory:orion:12",
+   "target": "refactor-safely-local"
+  },
+  {
+   "source": "memory:orion:13",
+   "target": "github-code-review-batch"
+  },
+  {
+   "source": "memory:orion:13",
+   "target": "tokenizer-checks"
+  },
+  {
+   "source": "memory:orion:13",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "memory:orion:13",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "memory:orion:14",
+   "target": "dependency-upgrades-local"
+  },
+  {
+   "source": "memory:orion:15",
+   "target": "github-code-review"
+  },
+  {
+   "source": "memory:orion:15",
+   "target": "release-notes"
+  },
+  {
+   "source": "memory:orion:16",
+   "target": "patent-search"
+  },
+  {
+   "source": "memory:orion:16",
+   "target": "spike"
+  },
+  {
+   "source": "memory:orion:17",
+   "target": "test-driven-development"
+  },
+  {
+   "source": "memory:orion:17",
+   "target": "huggingface-hub"
+  },
+  {
+   "source": "memory:orion:17",
+   "target": "perf-profiling-notes"
+  },
+  {
+   "source": "memory:orion:18",
+   "target": "lora-merges"
+  },
+  {
+   "source": "memory:orion:18",
+   "target": "github-code-review-batch"
+  },
+  {
+   "source": "memory:orion:18",
+   "target": "plan-notes"
+  },
+  {
+   "source": "memory:orion:19",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "memory:orion:19",
+   "target": "refactor-safely-local"
+  },
+  {
+   "source": "memory:orion:19",
+   "target": "writing-plans-batch"
+  },
+  {
+   "source": "memory:orion:20",
+   "target": "competitor-news-monitor"
+  },
+  {
+   "source": "memory:orion:20",
+   "target": "github-issues-review"
+  },
+  {
+   "source": "memory:orion:21",
+   "target": "dependency-upgrades"
+  },
+  {
+   "source": "memory:orion:21",
+   "target": "weights-and-biases-review"
+  },
+  {
+   "source": "memory:orion:21",
+   "target": "writing-plans-batch"
+  },
+  {
+   "source": "memory:orion:22",
+   "target": "perf-profiling-lite"
+  },
+  {
+   "source": "memory:orion:22",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "memory:orion:22",
+   "target": "writing-plans"
+  },
+  {
+   "source": "memory:orion:22",
+   "target": "weights-and-biases-review"
+  },
+  {
+   "source": "memory:orion:23",
+   "target": "requesting-code-review"
+  },
+  {
+   "source": "memory:orion:23",
+   "target": "requesting-code-review-review"
+  },
+  {
+   "source": "memory:orion:23",
+   "target": "gguf-quantization-local"
+  },
+  {
+   "source": "memory:orion:23",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "memory:orion:24",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "memory:orion:24",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "memory:orion:25",
+   "target": "competitor-news-monitor-review"
+  }
+ ],
+ "clusters": [],
+ "stats": {
+  "nodes": 122
+ }
+}

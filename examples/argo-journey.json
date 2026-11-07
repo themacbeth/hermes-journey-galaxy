@@ -1,0 +1,2621 @@
+{
+ "name": "ARGO",
+ "nodes": [
+  {
+   "id": "refactor-safely",
+   "label": "refactor-safely",
+   "kind": "skill",
+   "timestamp": 1784266606,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items",
+   "label": "document-to-action-items",
+   "kind": "skill",
+   "timestamp": 1793092068,
+   "category": "productivity",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "cron-jobs",
+   "label": "cron-jobs",
+   "kind": "skill",
+   "timestamp": 1791679150,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "log-forensics",
+   "label": "log-forensics",
+   "kind": "skill",
+   "timestamp": 1789468936,
+   "category": "devops",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes",
+   "label": "release-notes",
+   "kind": "skill",
+   "timestamp": 1779850717,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items",
+   "label": "meeting-action-items",
+   "kind": "skill",
+   "timestamp": 1782744621,
+   "category": "productivity",
+   "useCount": 26,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dns-debugging",
+   "label": "dns-debugging",
+   "kind": "skill",
+   "timestamp": 1790789970,
+   "category": "devops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "flaky-test-triage",
+   "label": "flaky-test-triage",
+   "kind": "skill",
+   "timestamp": 1778533743,
+   "category": "software-development",
+   "useCount": 28,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "inbox-zero",
+   "label": "inbox-zero",
+   "kind": "skill",
+   "timestamp": 1782749876,
+   "category": "productivity",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-code-review",
+   "label": "github-code-review",
+   "kind": "skill",
+   "timestamp": 1778498581,
+   "category": "software-development",
+   "useCount": 16,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "pdf",
+   "label": "pdf",
+   "kind": "skill",
+   "timestamp": 1790421354,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code",
+   "label": "simplify-code",
+   "kind": "skill",
+   "timestamp": 1778613138,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow",
+   "label": "github-pr-workflow",
+   "kind": "skill",
+   "timestamp": 1777401574,
+   "category": "software-development",
+   "useCount": 393,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "travel-planning",
+   "label": "travel-planning",
+   "kind": "skill",
+   "timestamp": 1789105041,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling",
+   "label": "perf-profiling",
+   "kind": "skill",
+   "timestamp": 1789313650,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dogfood",
+   "label": "dogfood",
+   "kind": "skill",
+   "timestamp": 1786884921,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks",
+   "label": "api-contract-checks",
+   "kind": "skill",
+   "timestamp": 1777384679,
+   "category": "software-development",
+   "useCount": 23,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gpu-cluster-ops",
+   "label": "gpu-cluster-ops",
+   "kind": "skill",
+   "timestamp": 1786095498,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review",
+   "label": "requesting-code-review",
+   "kind": "skill",
+   "timestamp": 1777101025,
+   "category": "software-development",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting",
+   "label": "dataset-scouting",
+   "kind": "skill",
+   "timestamp": 1787971522,
+   "category": "research",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "webhook-subscriptions",
+   "label": "webhook-subscriptions",
+   "kind": "skill",
+   "timestamp": 1792841130,
+   "category": "devops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development",
+   "label": "test-driven-development",
+   "kind": "skill",
+   "timestamp": 1785654019,
+   "category": "software-development",
+   "useCount": 38,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review",
+   "label": "literature-review",
+   "kind": "skill",
+   "timestamp": 1778509150,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades",
+   "label": "dependency-upgrades",
+   "kind": "skill",
+   "timestamp": 1787680926,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging",
+   "label": "systematic-debugging",
+   "kind": "skill",
+   "timestamp": 1779363847,
+   "category": "software-development",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations",
+   "label": "grounded-citations",
+   "kind": "skill",
+   "timestamp": 1782812059,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor",
+   "label": "competitor-news-monitor",
+   "kind": "skill",
+   "timestamp": 1777502268,
+   "category": "research",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weekly-review-planning",
+   "label": "weekly-review-planning",
+   "kind": "skill",
+   "timestamp": 1781949741,
+   "category": "productivity",
+   "useCount": 21,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "rss-feeds",
+   "label": "rss-feeds",
+   "kind": "skill",
+   "timestamp": 1780813284,
+   "category": "research",
+   "useCount": 21,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "ci-repair",
+   "label": "ci-repair",
+   "kind": "skill",
+   "timestamp": 1782181983,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "docker-compose",
+   "label": "docker-compose",
+   "kind": "skill",
+   "timestamp": 1778677570,
+   "category": "devops",
+   "useCount": 95,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "microsoft-office",
+   "label": "microsoft-office",
+   "kind": "skill",
+   "timestamp": 1783443203,
+   "category": "productivity",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "backup-checks",
+   "label": "backup-checks",
+   "kind": "skill",
+   "timestamp": 1780383216,
+   "category": "devops",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans",
+   "label": "writing-plans",
+   "kind": "skill",
+   "timestamp": 1781486670,
+   "category": "software-development",
+   "useCount": 28,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues",
+   "label": "github-issues",
+   "kind": "skill",
+   "timestamp": 1788824804,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spike",
+   "label": "spike",
+   "kind": "skill",
+   "timestamp": 1783371570,
+   "category": "software-development",
+   "useCount": 25,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts",
+   "label": "migration-scripts",
+   "kind": "skill",
+   "timestamp": 1777998415,
+   "category": "software-development",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync",
+   "label": "notion-sync",
+   "kind": "skill",
+   "timestamp": 1791942518,
+   "category": "productivity",
+   "useCount": 20,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection",
+   "label": "codebase-inspection",
+   "kind": "skill",
+   "timestamp": 1787736446,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace",
+   "label": "google-workspace",
+   "kind": "skill",
+   "timestamp": 1785328690,
+   "category": "productivity",
+   "useCount": 13,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading",
+   "label": "benchmark-reading",
+   "kind": "skill",
+   "timestamp": 1779177522,
+   "category": "research",
+   "useCount": 49,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search",
+   "label": "patent-search",
+   "kind": "skill",
+   "timestamp": 1778619558,
+   "category": "research",
+   "useCount": 66,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv",
+   "label": "arxiv",
+   "kind": "skill",
+   "timestamp": 1779376790,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "calendar-triage",
+   "label": "calendar-triage",
+   "kind": "skill",
+   "timestamp": 1782845914,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "subagent-driven-development",
+   "label": "subagent-driven-development",
+   "kind": "skill",
+   "timestamp": 1783061220,
+   "category": "software-development",
+   "useCount": 13,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan",
+   "label": "plan",
+   "kind": "skill",
+   "timestamp": 1777745275,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket",
+   "label": "polymarket",
+   "kind": "skill",
+   "timestamp": 1782112668,
+   "category": "research",
+   "useCount": 13,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries",
+   "label": "paper-summaries",
+   "kind": "skill",
+   "timestamp": 1779328605,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "expense-reports",
+   "label": "expense-reports",
+   "kind": "skill",
+   "timestamp": 1790912513,
+   "category": "productivity",
+   "useCount": 16,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts",
+   "label": "uptime-alerts",
+   "kind": "skill",
+   "timestamp": 1779949122,
+   "category": "devops",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "linear",
+   "label": "linear",
+   "kind": "skill",
+   "timestamp": 1777833739,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher",
+   "label": "blogwatcher",
+   "kind": "skill",
+   "timestamp": 1778045801,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "secrets-rotation",
+   "label": "secrets-rotation",
+   "kind": "skill",
+   "timestamp": 1779025327,
+   "category": "devops",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan-review",
+   "label": "plan-review",
+   "kind": "skill",
+   "timestamp": 1777766927,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "webhook-subscriptions-lite",
+   "label": "webhook-subscriptions-lite",
+   "kind": "skill",
+   "timestamp": 1786581748,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling-ops",
+   "label": "perf-profiling-ops",
+   "kind": "skill",
+   "timestamp": 1789195546,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review-notes",
+   "label": "requesting-code-review-notes",
+   "kind": "skill",
+   "timestamp": 1785321095,
+   "category": "software-development",
+   "useCount": 14,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes-ops",
+   "label": "release-notes-ops",
+   "kind": "skill",
+   "timestamp": 1784323828,
+   "category": "software-development",
+   "useCount": 23,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts-notes",
+   "label": "uptime-alerts-notes",
+   "kind": "skill",
+   "timestamp": 1790932155,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations-notes",
+   "label": "grounded-citations-notes",
+   "kind": "skill",
+   "timestamp": 1778735580,
+   "category": "research",
+   "useCount": 24,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review-local",
+   "label": "requesting-code-review-local",
+   "kind": "skill",
+   "timestamp": 1790611163,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes-notes",
+   "label": "release-notes-notes",
+   "kind": "skill",
+   "timestamp": 1777570975,
+   "category": "software-development",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "calendar-triage-notes",
+   "label": "calendar-triage-notes",
+   "kind": "skill",
+   "timestamp": 1778528581,
+   "category": "productivity",
+   "useCount": 15,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning-batch",
+   "label": "travel-planning-batch",
+   "kind": "skill",
+   "timestamp": 1778533594,
+   "category": "productivity",
+   "useCount": 29,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "log-forensics-local",
+   "label": "log-forensics-local",
+   "kind": "skill",
+   "timestamp": 1777705048,
+   "category": "devops",
+   "useCount": 14,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging-deep",
+   "label": "systematic-debugging-deep",
+   "kind": "skill",
+   "timestamp": 1793217878,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations-local",
+   "label": "grounded-citations-local",
+   "kind": "skill",
+   "timestamp": 1777614299,
+   "category": "research",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading-batch",
+   "label": "benchmark-reading-batch",
+   "kind": "skill",
+   "timestamp": 1790993759,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts-deep",
+   "label": "uptime-alerts-deep",
+   "kind": "skill",
+   "timestamp": 1778571567,
+   "category": "devops",
+   "useCount": 164,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gpu-cluster-ops-review",
+   "label": "gpu-cluster-ops-review",
+   "kind": "skill",
+   "timestamp": 1784196583,
+   "category": "devops",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items-review",
+   "label": "meeting-action-items-review",
+   "kind": "skill",
+   "timestamp": 1787878180,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development-notes",
+   "label": "test-driven-development-notes",
+   "kind": "skill",
+   "timestamp": 1780474808,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-lite",
+   "label": "competitor-news-monitor-lite",
+   "kind": "skill",
+   "timestamp": 1789603404,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "flaky-test-triage-batch",
+   "label": "flaky-test-triage-batch",
+   "kind": "skill",
+   "timestamp": 1781232608,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dogfood-deep",
+   "label": "dogfood-deep",
+   "kind": "skill",
+   "timestamp": 1788469345,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dns-debugging-notes",
+   "label": "dns-debugging-notes",
+   "kind": "skill",
+   "timestamp": 1784012916,
+   "category": "devops",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-local",
+   "label": "blogwatcher-local",
+   "kind": "skill",
+   "timestamp": 1788737416,
+   "category": "research",
+   "useCount": 17,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code-deep",
+   "label": "simplify-code-deep",
+   "kind": "skill",
+   "timestamp": 1788956843,
+   "category": "software-development",
+   "useCount": 15,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spike-batch",
+   "label": "spike-batch",
+   "kind": "skill",
+   "timestamp": 1786444779,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "rss-feeds-ops",
+   "label": "rss-feeds-ops",
+   "kind": "skill",
+   "timestamp": 1778580955,
+   "category": "research",
+   "useCount": 15,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow-deep",
+   "label": "github-pr-workflow-deep",
+   "kind": "skill",
+   "timestamp": 1782244847,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts-batch",
+   "label": "uptime-alerts-batch",
+   "kind": "skill",
+   "timestamp": 1777241489,
+   "category": "devops",
+   "useCount": 59,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-deep",
+   "label": "competitor-news-monitor-deep",
+   "kind": "skill",
+   "timestamp": 1780251250,
+   "category": "research",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging-notes",
+   "label": "systematic-debugging-notes",
+   "kind": "skill",
+   "timestamp": 1777415764,
+   "category": "software-development",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning-notes",
+   "label": "travel-planning-notes",
+   "kind": "skill",
+   "timestamp": 1786575331,
+   "category": "productivity",
+   "useCount": 63,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gpu-cluster-ops-lite",
+   "label": "gpu-cluster-ops-lite",
+   "kind": "skill",
+   "timestamp": 1777686027,
+   "category": "devops",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-ops",
+   "label": "blogwatcher-ops",
+   "kind": "skill",
+   "timestamp": 1781169892,
+   "category": "research",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting-notes",
+   "label": "dataset-scouting-notes",
+   "kind": "skill",
+   "timestamp": 1777080634,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations-lite",
+   "label": "grounded-citations-lite",
+   "kind": "skill",
+   "timestamp": 1783667686,
+   "category": "research",
+   "useCount": 50,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection-deep",
+   "label": "codebase-inspection-deep",
+   "kind": "skill",
+   "timestamp": 1789647902,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts-notes",
+   "label": "migration-scripts-notes",
+   "kind": "skill",
+   "timestamp": 1783661689,
+   "category": "software-development",
+   "useCount": 40,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "cron-jobs-batch",
+   "label": "cron-jobs-batch",
+   "kind": "skill",
+   "timestamp": 1791564728,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning-local",
+   "label": "travel-planning-local",
+   "kind": "skill",
+   "timestamp": 1789871000,
+   "category": "productivity",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks-notes",
+   "label": "api-contract-checks-notes",
+   "kind": "skill",
+   "timestamp": 1791928855,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts-ops",
+   "label": "uptime-alerts-ops",
+   "kind": "skill",
+   "timestamp": 1779895242,
+   "category": "devops",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development-lite",
+   "label": "test-driven-development-lite",
+   "kind": "skill",
+   "timestamp": 1783851286,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items-batch",
+   "label": "meeting-action-items-batch",
+   "kind": "skill",
+   "timestamp": 1777151483,
+   "category": "productivity",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync-deep",
+   "label": "notion-sync-deep",
+   "kind": "skill",
+   "timestamp": 1781303733,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dogfood-notes",
+   "label": "dogfood-notes",
+   "kind": "skill",
+   "timestamp": 1787523536,
+   "category": "software-development",
+   "useCount": 92,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection-review",
+   "label": "codebase-inspection-review",
+   "kind": "skill",
+   "timestamp": 1777407130,
+   "category": "software-development",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades-ops",
+   "label": "dependency-upgrades-ops",
+   "kind": "skill",
+   "timestamp": 1779112132,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "ci-repair-batch",
+   "label": "ci-repair-batch",
+   "kind": "skill",
+   "timestamp": 1791750982,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync-local",
+   "label": "notion-sync-local",
+   "kind": "skill",
+   "timestamp": 1784640778,
+   "category": "productivity",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts-batch",
+   "label": "migration-scripts-batch",
+   "kind": "skill",
+   "timestamp": 1777738498,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging-batch",
+   "label": "systematic-debugging-batch",
+   "kind": "skill",
+   "timestamp": 1777777741,
+   "category": "software-development",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting-batch",
+   "label": "dataset-scouting-batch",
+   "kind": "skill",
+   "timestamp": 1784610483,
+   "category": "research",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "secrets-rotation-ops",
+   "label": "secrets-rotation-ops",
+   "kind": "skill",
+   "timestamp": 1788167398,
+   "category": "devops",
+   "useCount": 294,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow-batch",
+   "label": "github-pr-workflow-batch",
+   "kind": "skill",
+   "timestamp": 1787236040,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-deep",
+   "label": "paper-summaries-deep",
+   "kind": "skill",
+   "timestamp": 1788306607,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "calendar-triage-local",
+   "label": "calendar-triage-local",
+   "kind": "skill",
+   "timestamp": 1784778714,
+   "category": "productivity",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "docker-compose-ops",
+   "label": "docker-compose-ops",
+   "kind": "skill",
+   "timestamp": 1785225040,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items-local",
+   "label": "meeting-action-items-local",
+   "kind": "skill",
+   "timestamp": 1782829936,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "log-forensics-notes",
+   "label": "log-forensics-notes",
+   "kind": "skill",
+   "timestamp": 1785108967,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "backup-checks-review",
+   "label": "backup-checks-review",
+   "kind": "skill",
+   "timestamp": 1785015081,
+   "category": "devops",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan-local",
+   "label": "plan-local",
+   "kind": "skill",
+   "timestamp": 1787709532,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks-local",
+   "label": "api-contract-checks-local",
+   "kind": "skill",
+   "timestamp": 1785173427,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "microsoft-office-review",
+   "label": "microsoft-office-review",
+   "kind": "skill",
+   "timestamp": 1780251737,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans-batch",
+   "label": "writing-plans-batch",
+   "kind": "skill",
+   "timestamp": 1788688099,
+   "category": "software-development",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket-notes",
+   "label": "polymarket-notes",
+   "kind": "skill",
+   "timestamp": 1781868756,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "inbox-zero-batch",
+   "label": "inbox-zero-batch",
+   "kind": "skill",
+   "timestamp": 1780699912,
+   "category": "productivity",
+   "useCount": 137,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search-lite",
+   "label": "patent-search-lite",
+   "kind": "skill",
+   "timestamp": 1779616635,
+   "category": "research",
+   "useCount": 17,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace-ops",
+   "label": "google-workspace-ops",
+   "kind": "skill",
+   "timestamp": 1781588461,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes-review",
+   "label": "release-notes-review",
+   "kind": "skill",
+   "timestamp": 1777412158,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-notes",
+   "label": "paper-summaries-notes",
+   "kind": "skill",
+   "timestamp": 1788973272,
+   "category": "research",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-local",
+   "label": "competitor-news-monitor-local",
+   "kind": "skill",
+   "timestamp": 1777400285,
+   "category": "research",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review-review",
+   "label": "requesting-code-review-review",
+   "kind": "skill",
+   "timestamp": 1786441553,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans-ops",
+   "label": "writing-plans-ops",
+   "kind": "skill",
+   "timestamp": 1779491796,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "inbox-zero-notes",
+   "label": "inbox-zero-notes",
+   "kind": "skill",
+   "timestamp": 1780643793,
+   "category": "productivity",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades-batch",
+   "label": "dependency-upgrades-batch",
+   "kind": "skill",
+   "timestamp": 1784501737,
+   "category": "software-development",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "rss-feeds-review",
+   "label": "rss-feeds-review",
+   "kind": "skill",
+   "timestamp": 1781768449,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv-deep",
+   "label": "arxiv-deep",
+   "kind": "skill",
+   "timestamp": 1778769413,
+   "category": "research",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "subagent-driven-development-ops",
+   "label": "subagent-driven-development-ops",
+   "kind": "skill",
+   "timestamp": 1779066801,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync-batch",
+   "label": "notion-sync-batch",
+   "kind": "skill",
+   "timestamp": 1786081036,
+   "category": "productivity",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync-notes",
+   "label": "notion-sync-notes",
+   "kind": "skill",
+   "timestamp": 1780680463,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items-local",
+   "label": "document-to-action-items-local",
+   "kind": "skill",
+   "timestamp": 1783886400,
+   "category": "productivity",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review-deep",
+   "label": "literature-review-deep",
+   "kind": "skill",
+   "timestamp": 1788889453,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items-ops",
+   "label": "document-to-action-items-ops",
+   "kind": "skill",
+   "timestamp": 1783999088,
+   "category": "productivity",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading-notes",
+   "label": "benchmark-reading-notes",
+   "kind": "skill",
+   "timestamp": 1777334646,
+   "category": "research",
+   "useCount": 16,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "docker-compose-notes",
+   "label": "docker-compose-notes",
+   "kind": "skill",
+   "timestamp": 1780191577,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket-review",
+   "label": "polymarket-review",
+   "kind": "skill",
+   "timestamp": 1777474106,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "webhook-subscriptions-batch",
+   "label": "webhook-subscriptions-batch",
+   "kind": "skill",
+   "timestamp": 1779027514,
+   "category": "devops",
+   "useCount": 13,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades-deep",
+   "label": "dependency-upgrades-deep",
+   "kind": "skill",
+   "timestamp": 1780249287,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "cron-jobs-deep",
+   "label": "cron-jobs-deep",
+   "kind": "skill",
+   "timestamp": 1785985897,
+   "category": "devops",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "inbox-zero-lite",
+   "label": "inbox-zero-lite",
+   "kind": "skill",
+   "timestamp": 1786720912,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development-review",
+   "label": "test-driven-development-review",
+   "kind": "skill",
+   "timestamp": 1789831503,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items-deep",
+   "label": "meeting-action-items-deep",
+   "kind": "skill",
+   "timestamp": 1792232503,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items-lite",
+   "label": "document-to-action-items-lite",
+   "kind": "skill",
+   "timestamp": 1788687229,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "microsoft-office-ops",
+   "label": "microsoft-office-ops",
+   "kind": "skill",
+   "timestamp": 1779028749,
+   "category": "productivity",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "refactor-safely-ops",
+   "label": "refactor-safely-ops",
+   "kind": "skill",
+   "timestamp": 1780006170,
+   "category": "software-development",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv-local",
+   "label": "arxiv-local",
+   "kind": "skill",
+   "timestamp": 1792497525,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:0",
+   "label": "style guide",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1779959357,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:1",
+   "label": "release checklist",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1780757726,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:2",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1792305983,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:3",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1777689054,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:4",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1792267170,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:5",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1783528060,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:6",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1781301163,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:7",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1787792909,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:8",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1789637079,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:9",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1786611782,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:10",
+   "label": "deploy steps",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1781309391,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:11",
+   "label": "deploy steps",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784979864,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:12",
+   "label": "review style",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1788350157,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:13",
+   "label": "deploy steps",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1786171436,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:14",
+   "label": "favorite tools",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1786251503,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:15",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1792333498,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:16",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1788830586,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:17",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1786218904,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:18",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784931599,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:19",
+   "label": "favorite tools",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1792776697,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:20",
+   "label": "review style",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1793154028,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:argo:21",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790429919,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "document-to-action-items",
+   "target": "document-to-action-items-local"
+  },
+  {
+   "source": "cron-jobs",
+   "target": "uptime-alerts-ops"
+  },
+  {
+   "source": "cron-jobs",
+   "target": "cron-jobs-deep"
+  },
+  {
+   "source": "cron-jobs",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "log-forensics",
+   "target": "backup-checks-review"
+  },
+  {
+   "source": "release-notes",
+   "target": "subagent-driven-development-ops"
+  },
+  {
+   "source": "meeting-action-items",
+   "target": "microsoft-office-ops"
+  },
+  {
+   "source": "dns-debugging",
+   "target": "cron-jobs-batch"
+  },
+  {
+   "source": "inbox-zero",
+   "target": "google-workspace"
+  },
+  {
+   "source": "inbox-zero",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "github-code-review",
+   "target": "codebase-inspection-review"
+  },
+  {
+   "source": "simplify-code",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "simplify-code",
+   "target": "release-notes-review"
+  },
+  {
+   "source": "github-pr-workflow",
+   "target": "release-notes"
+  },
+  {
+   "source": "travel-planning",
+   "target": "calendar-triage-notes"
+  },
+  {
+   "source": "travel-planning",
+   "target": "weekly-review-planning"
+  },
+  {
+   "source": "perf-profiling",
+   "target": "writing-plans"
+  },
+  {
+   "source": "perf-profiling",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "dogfood",
+   "target": "test-driven-development"
+  },
+  {
+   "source": "dogfood",
+   "target": "test-driven-development-review"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "plan"
+  },
+  {
+   "source": "gpu-cluster-ops",
+   "target": "gpu-cluster-ops-review"
+  },
+  {
+   "source": "dataset-scouting",
+   "target": "patent-search"
+  },
+  {
+   "source": "webhook-subscriptions",
+   "target": "log-forensics-notes"
+  },
+  {
+   "source": "webhook-subscriptions",
+   "target": "docker-compose-notes"
+  },
+  {
+   "source": "test-driven-development",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "test-driven-development",
+   "target": "requesting-code-review-local"
+  },
+  {
+   "source": "literature-review",
+   "target": "blogwatcher-local"
+  },
+  {
+   "source": "literature-review",
+   "target": "blogwatcher-ops"
+  },
+  {
+   "source": "dependency-upgrades",
+   "target": "writing-plans-ops"
+  },
+  {
+   "source": "dependency-upgrades",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "systematic-debugging",
+   "target": "codebase-inspection-review"
+  },
+  {
+   "source": "systematic-debugging",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "grounded-citations",
+   "target": "dataset-scouting-notes"
+  },
+  {
+   "source": "grounded-citations",
+   "target": "dataset-scouting-batch"
+  },
+  {
+   "source": "weekly-review-planning",
+   "target": "google-workspace-ops"
+  },
+  {
+   "source": "rss-feeds",
+   "target": "dataset-scouting-notes"
+  },
+  {
+   "source": "ci-repair",
+   "target": "log-forensics-notes"
+  },
+  {
+   "source": "ci-repair",
+   "target": "ci-repair-batch"
+  },
+  {
+   "source": "docker-compose",
+   "target": "dns-debugging"
+  },
+  {
+   "source": "docker-compose",
+   "target": "gpu-cluster-ops"
+  },
+  {
+   "source": "docker-compose",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "microsoft-office",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "backup-checks",
+   "target": "ci-repair"
+  },
+  {
+   "source": "github-issues",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "spike",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "github-pr-workflow-deep"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "api-contract-checks"
+  },
+  {
+   "source": "google-workspace",
+   "target": "google-workspace-ops"
+  },
+  {
+   "source": "benchmark-reading",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "benchmark-reading",
+   "target": "paper-summaries-notes"
+  },
+  {
+   "source": "patent-search",
+   "target": "blogwatcher-local"
+  },
+  {
+   "source": "calendar-triage",
+   "target": "meeting-action-items-local"
+  },
+  {
+   "source": "subagent-driven-development",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "subagent-driven-development",
+   "target": "migration-scripts-notes"
+  },
+  {
+   "source": "plan",
+   "target": "dependency-upgrades-batch"
+  },
+  {
+   "source": "paper-summaries",
+   "target": "rss-feeds-ops"
+  },
+  {
+   "source": "expense-reports",
+   "target": "meeting-action-items-review"
+  },
+  {
+   "source": "uptime-alerts",
+   "target": "cron-jobs-batch"
+  },
+  {
+   "source": "linear",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "blogwatcher",
+   "target": "benchmark-reading"
+  },
+  {
+   "source": "blogwatcher",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "secrets-rotation",
+   "target": "cron-jobs-batch"
+  },
+  {
+   "source": "secrets-rotation",
+   "target": "uptime-alerts-deep"
+  },
+  {
+   "source": "plan-review",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "webhook-subscriptions-lite",
+   "target": "uptime-alerts"
+  },
+  {
+   "source": "requesting-code-review-notes",
+   "target": "spike"
+  },
+  {
+   "source": "uptime-alerts-notes",
+   "target": "ci-repair"
+  },
+  {
+   "source": "grounded-citations-notes",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "grounded-citations-notes",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "release-notes-notes",
+   "target": "spike"
+  },
+  {
+   "source": "calendar-triage-notes",
+   "target": "expense-reports"
+  },
+  {
+   "source": "log-forensics-local",
+   "target": "ci-repair"
+  },
+  {
+   "source": "log-forensics-local",
+   "target": "docker-compose-notes"
+  },
+  {
+   "source": "systematic-debugging-deep",
+   "target": "plan"
+  },
+  {
+   "source": "grounded-citations-local",
+   "target": "literature-review"
+  },
+  {
+   "source": "grounded-citations-local",
+   "target": "blogwatcher"
+  },
+  {
+   "source": "benchmark-reading-batch",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "benchmark-reading-batch",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "gpu-cluster-ops-review",
+   "target": "webhook-subscriptions-lite"
+  },
+  {
+   "source": "meeting-action-items-review",
+   "target": "travel-planning-notes"
+  },
+  {
+   "source": "test-driven-development-notes",
+   "target": "github-code-review"
+  },
+  {
+   "source": "flaky-test-triage-batch",
+   "target": "release-notes-notes"
+  },
+  {
+   "source": "dns-debugging-notes",
+   "target": "uptime-alerts-ops"
+  },
+  {
+   "source": "dns-debugging-notes",
+   "target": "docker-compose-ops"
+  },
+  {
+   "source": "blogwatcher-local",
+   "target": "blogwatcher-ops"
+  },
+  {
+   "source": "blogwatcher-local",
+   "target": "polymarket-review"
+  },
+  {
+   "source": "simplify-code-deep",
+   "target": "test-driven-development-review"
+  },
+  {
+   "source": "simplify-code-deep",
+   "target": "refactor-safely-ops"
+  },
+  {
+   "source": "spike-batch",
+   "target": "dogfood"
+  },
+  {
+   "source": "spike-batch",
+   "target": "api-contract-checks-notes"
+  },
+  {
+   "source": "spike-batch",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "rss-feeds-ops",
+   "target": "rss-feeds-review"
+  },
+  {
+   "source": "competitor-news-monitor-deep",
+   "target": "patent-search-lite"
+  },
+  {
+   "source": "competitor-news-monitor-deep",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "systematic-debugging-notes",
+   "target": "test-driven-development-lite"
+  },
+  {
+   "source": "travel-planning-notes",
+   "target": "notion-sync"
+  },
+  {
+   "source": "gpu-cluster-ops-lite",
+   "target": "uptime-alerts-batch"
+  },
+  {
+   "source": "grounded-citations-lite",
+   "target": "dataset-scouting-notes"
+  },
+  {
+   "source": "codebase-inspection-deep",
+   "target": "simplify-code"
+  },
+  {
+   "source": "migration-scripts-notes",
+   "target": "codebase-inspection-deep"
+  },
+  {
+   "source": "cron-jobs-batch",
+   "target": "backup-checks"
+  },
+  {
+   "source": "travel-planning-local",
+   "target": "notion-sync"
+  },
+  {
+   "source": "travel-planning-local",
+   "target": "travel-planning"
+  },
+  {
+   "source": "travel-planning-local",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "api-contract-checks-notes",
+   "target": "dogfood"
+  },
+  {
+   "source": "uptime-alerts-ops",
+   "target": "secrets-rotation"
+  },
+  {
+   "source": "test-driven-development-lite",
+   "target": "release-notes"
+  },
+  {
+   "source": "notion-sync-deep",
+   "target": "microsoft-office-ops"
+  },
+  {
+   "source": "notion-sync-deep",
+   "target": "inbox-zero-notes"
+  },
+  {
+   "source": "notion-sync-deep",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "dogfood-notes",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "codebase-inspection-review",
+   "target": "plan-review"
+  },
+  {
+   "source": "codebase-inspection-review",
+   "target": "plan"
+  },
+  {
+   "source": "dependency-upgrades-ops",
+   "target": "writing-plans-ops"
+  },
+  {
+   "source": "ci-repair-batch",
+   "target": "docker-compose"
+  },
+  {
+   "source": "ci-repair-batch",
+   "target": "secrets-rotation"
+  },
+  {
+   "source": "migration-scripts-batch",
+   "target": "simplify-code-deep"
+  },
+  {
+   "source": "migration-scripts-batch",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "systematic-debugging-batch",
+   "target": "codebase-inspection-deep"
+  },
+  {
+   "source": "dataset-scouting-batch",
+   "target": "competitor-news-monitor"
+  },
+  {
+   "source": "secrets-rotation-ops",
+   "target": "log-forensics-notes"
+  },
+  {
+   "source": "github-pr-workflow-batch",
+   "target": "systematic-debugging-deep"
+  },
+  {
+   "source": "paper-summaries-deep",
+   "target": "dataset-scouting-batch"
+  },
+  {
+   "source": "calendar-triage-local",
+   "target": "notion-sync-batch"
+  },
+  {
+   "source": "calendar-triage-local",
+   "target": "weekly-review-planning"
+  },
+  {
+   "source": "calendar-triage-local",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "docker-compose-ops",
+   "target": "gpu-cluster-ops"
+  },
+  {
+   "source": "meeting-action-items-local",
+   "target": "meeting-action-items-batch"
+  },
+  {
+   "source": "log-forensics-notes",
+   "target": "uptime-alerts-batch"
+  },
+  {
+   "source": "backup-checks-review",
+   "target": "uptime-alerts-notes"
+  },
+  {
+   "source": "api-contract-checks-local",
+   "target": "plan"
+  },
+  {
+   "source": "microsoft-office-review",
+   "target": "meeting-action-items-review"
+  },
+  {
+   "source": "patent-search-lite",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "google-workspace-ops",
+   "target": "travel-planning-local"
+  },
+  {
+   "source": "release-notes-review",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "paper-summaries-notes",
+   "target": "blogwatcher-local"
+  },
+  {
+   "source": "paper-summaries-notes",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "requesting-code-review-review",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "writing-plans-ops",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "writing-plans-ops",
+   "target": "spike-batch"
+  },
+  {
+   "source": "writing-plans-ops",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "dependency-upgrades-batch",
+   "target": "plan-review"
+  },
+  {
+   "source": "arxiv-deep",
+   "target": "blogwatcher"
+  },
+  {
+   "source": "arxiv-deep",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "subagent-driven-development-ops",
+   "target": "spike"
+  },
+  {
+   "source": "subagent-driven-development-ops",
+   "target": "systematic-debugging-batch"
+  },
+  {
+   "source": "notion-sync-batch",
+   "target": "travel-planning-notes"
+  },
+  {
+   "source": "notion-sync-notes",
+   "target": "meeting-action-items-deep"
+  },
+  {
+   "source": "document-to-action-items-local",
+   "target": "pdf"
+  },
+  {
+   "source": "literature-review-deep",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "literature-review-deep",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "benchmark-reading-notes",
+   "target": "arxiv-local"
+  },
+  {
+   "source": "benchmark-reading-notes",
+   "target": "arxiv-deep"
+  },
+  {
+   "source": "docker-compose-notes",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "cron-jobs-deep",
+   "target": "backup-checks-review"
+  },
+  {
+   "source": "test-driven-development-review",
+   "target": "requesting-code-review-local"
+  },
+  {
+   "source": "document-to-action-items-lite",
+   "target": "pdf"
+  },
+  {
+   "source": "document-to-action-items-lite",
+   "target": "calendar-triage-local"
+  },
+  {
+   "source": "microsoft-office-ops",
+   "target": "travel-planning-batch"
+  },
+  {
+   "source": "refactor-safely-ops",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "arxiv-local",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "memory:argo:0",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "memory:argo:1",
+   "target": "systematic-debugging-batch"
+  },
+  {
+   "source": "memory:argo:1",
+   "target": "document-to-action-items-local"
+  },
+  {
+   "source": "memory:argo:2",
+   "target": "dependency-upgrades"
+  },
+  {
+   "source": "memory:argo:2",
+   "target": "dependency-upgrades-ops"
+  },
+  {
+   "source": "memory:argo:3",
+   "target": "patent-search-lite"
+  },
+  {
+   "source": "memory:argo:3",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "memory:argo:3",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "memory:argo:4",
+   "target": "uptime-alerts-notes"
+  },
+  {
+   "source": "memory:argo:5",
+   "target": "log-forensics-local"
+  },
+  {
+   "source": "memory:argo:5",
+   "target": "docker-compose"
+  },
+  {
+   "source": "memory:argo:5",
+   "target": "dependency-upgrades-deep"
+  },
+  {
+   "source": "memory:argo:6",
+   "target": "github-pr-workflow-batch"
+  },
+  {
+   "source": "memory:argo:6",
+   "target": "polymarket-notes"
+  },
+  {
+   "source": "memory:argo:7",
+   "target": "uptime-alerts-notes"
+  },
+  {
+   "source": "memory:argo:8",
+   "target": "rss-feeds-ops"
+  },
+  {
+   "source": "memory:argo:8",
+   "target": "blogwatcher-ops"
+  },
+  {
+   "source": "memory:argo:8",
+   "target": "perf-profiling-ops"
+  },
+  {
+   "source": "memory:argo:9",
+   "target": "patent-search"
+  },
+  {
+   "source": "memory:argo:10",
+   "target": "arxiv-local"
+  },
+  {
+   "source": "memory:argo:10",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "memory:argo:10",
+   "target": "dataset-scouting-notes"
+  },
+  {
+   "source": "memory:argo:10",
+   "target": "meeting-action-items-deep"
+  },
+  {
+   "source": "memory:argo:11",
+   "target": "polymarket-notes"
+  },
+  {
+   "source": "memory:argo:11",
+   "target": "dependency-upgrades-ops"
+  },
+  {
+   "source": "memory:argo:12",
+   "target": "notion-sync-deep"
+  },
+  {
+   "source": "memory:argo:12",
+   "target": "meeting-action-items-batch"
+  },
+  {
+   "source": "memory:argo:13",
+   "target": "perf-profiling-ops"
+  },
+  {
+   "source": "memory:argo:14",
+   "target": "grounded-citations-lite"
+  },
+  {
+   "source": "memory:argo:14",
+   "target": "travel-planning-batch"
+  },
+  {
+   "source": "memory:argo:14",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "memory:argo:14",
+   "target": "webhook-subscriptions-batch"
+  },
+  {
+   "source": "memory:argo:15",
+   "target": "release-notes-review"
+  },
+  {
+   "source": "memory:argo:15",
+   "target": "secrets-rotation"
+  },
+  {
+   "source": "memory:argo:16",
+   "target": "webhook-subscriptions-lite"
+  },
+  {
+   "source": "memory:argo:16",
+   "target": "inbox-zero-batch"
+  },
+  {
+   "source": "memory:argo:16",
+   "target": "spike-batch"
+  },
+  {
+   "source": "memory:argo:16",
+   "target": "patent-search-lite"
+  },
+  {
+   "source": "memory:argo:17",
+   "target": "requesting-code-review-review"
+  },
+  {
+   "source": "memory:argo:17",
+   "target": "polymarket"
+  },
+  {
+   "source": "memory:argo:17",
+   "target": "competitor-news-monitor-local"
+  },
+  {
+   "source": "memory:argo:17",
+   "target": "secrets-rotation"
+  },
+  {
+   "source": "memory:argo:18",
+   "target": "github-pr-workflow-batch"
+  },
+  {
+   "source": "memory:argo:18",
+   "target": "requesting-code-review"
+  },
+  {
+   "source": "memory:argo:18",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "memory:argo:18",
+   "target": "meeting-action-items-review"
+  },
+  {
+   "source": "memory:argo:19",
+   "target": "meeting-action-items-review"
+  },
+  {
+   "source": "memory:argo:19",
+   "target": "release-notes"
+  },
+  {
+   "source": "memory:argo:19",
+   "target": "notion-sync-batch"
+  },
+  {
+   "source": "memory:argo:20",
+   "target": "benchmark-reading-batch"
+  },
+  {
+   "source": "memory:argo:20",
+   "target": "subagent-driven-development-ops"
+  },
+  {
+   "source": "memory:argo:21",
+   "target": "meeting-action-items-deep"
+  },
+  {
+   "source": "memory:argo:21",
+   "target": "perf-profiling-ops"
+  },
+  {
+   "source": "memory:argo:21",
+   "target": "uptime-alerts-deep"
+  },
+  {
+   "source": "memory:argo:21",
+   "target": "competitor-news-monitor"
+  }
+ ],
+ "clusters": [],
+ "stats": {
+  "nodes": 172
+ }
+}

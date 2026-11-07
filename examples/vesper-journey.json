@@ -1,0 +1,1376 @@
+{
+ "name": "VESPER",
+ "nodes": [
+  {
+   "id": "arxiv",
+   "label": "arxiv",
+   "kind": "skill",
+   "timestamp": 1786694489,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "microsoft-office",
+   "label": "microsoft-office",
+   "kind": "skill",
+   "timestamp": 1783328000,
+   "category": "productivity",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning",
+   "label": "travel-planning",
+   "kind": "skill",
+   "timestamp": 1783597043,
+   "category": "productivity",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor",
+   "label": "competitor-news-monitor",
+   "kind": "skill",
+   "timestamp": 1785773014,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace",
+   "label": "google-workspace",
+   "kind": "skill",
+   "timestamp": 1790166015,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "pdf",
+   "label": "pdf",
+   "kind": "skill",
+   "timestamp": 1785263528,
+   "category": "productivity",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading",
+   "label": "benchmark-reading",
+   "kind": "skill",
+   "timestamp": 1791028161,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync",
+   "label": "notion-sync",
+   "kind": "skill",
+   "timestamp": 1785555927,
+   "category": "productivity",
+   "useCount": 35,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "home-inventory",
+   "label": "home-inventory",
+   "kind": "skill",
+   "timestamp": 1792142880,
+   "category": "home",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "youtube-content",
+   "label": "youtube-content",
+   "kind": "skill",
+   "timestamp": 1789113565,
+   "category": "media",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review",
+   "label": "literature-review",
+   "kind": "skill",
+   "timestamp": 1787115488,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "podcast-notes",
+   "label": "podcast-notes",
+   "kind": "skill",
+   "timestamp": 1791511068,
+   "category": "media",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search",
+   "label": "patent-search",
+   "kind": "skill",
+   "timestamp": 1790448135,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items",
+   "label": "meeting-action-items",
+   "kind": "skill",
+   "timestamp": 1783331047,
+   "category": "productivity",
+   "useCount": 178,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "weekly-review-planning",
+   "label": "weekly-review-planning",
+   "kind": "skill",
+   "timestamp": 1786674580,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting",
+   "label": "dataset-scouting",
+   "kind": "skill",
+   "timestamp": 1790322660,
+   "category": "research",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "expense-reports",
+   "label": "expense-reports",
+   "kind": "skill",
+   "timestamp": 1786381533,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "rss-feeds",
+   "label": "rss-feeds",
+   "kind": "skill",
+   "timestamp": 1786074146,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries",
+   "label": "paper-summaries",
+   "kind": "skill",
+   "timestamp": 1783586094,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "recipe-planner",
+   "label": "recipe-planner",
+   "kind": "skill",
+   "timestamp": 1786760821,
+   "category": "home",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "openhue",
+   "label": "openhue",
+   "kind": "skill",
+   "timestamp": 1793211000,
+   "category": "home",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "clip-finder",
+   "label": "clip-finder",
+   "kind": "skill",
+   "timestamp": 1789862561,
+   "category": "media",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spotify",
+   "label": "spotify",
+   "kind": "skill",
+   "timestamp": 1788699850,
+   "category": "home",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plant-care",
+   "label": "plant-care",
+   "kind": "skill",
+   "timestamp": 1790515111,
+   "category": "home",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations",
+   "label": "grounded-citations",
+   "kind": "skill",
+   "timestamp": 1783393327,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "find-nearby",
+   "label": "find-nearby",
+   "kind": "skill",
+   "timestamp": 1792768890,
+   "category": "home",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items",
+   "label": "document-to-action-items",
+   "kind": "skill",
+   "timestamp": 1786362949,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "inbox-zero",
+   "label": "inbox-zero",
+   "kind": "skill",
+   "timestamp": 1783453448,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gif-search",
+   "label": "gif-search",
+   "kind": "skill",
+   "timestamp": 1787244384,
+   "category": "media",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket",
+   "label": "polymarket",
+   "kind": "skill",
+   "timestamp": 1785220635,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "whisper-transcripts",
+   "label": "whisper-transcripts",
+   "kind": "skill",
+   "timestamp": 1785830654,
+   "category": "media",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "calendar-triage",
+   "label": "calendar-triage",
+   "kind": "skill",
+   "timestamp": 1783190394,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "thumbnail-variants",
+   "label": "thumbnail-variants",
+   "kind": "skill",
+   "timestamp": 1787824669,
+   "category": "media",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher",
+   "label": "blogwatcher",
+   "kind": "skill",
+   "timestamp": 1783137379,
+   "category": "research",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "linear",
+   "label": "linear",
+   "kind": "skill",
+   "timestamp": 1788183752,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "youtube-content-local",
+   "label": "youtube-content-local",
+   "kind": "skill",
+   "timestamp": 1783895454,
+   "category": "media",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-review",
+   "label": "paper-summaries-review",
+   "kind": "skill",
+   "timestamp": 1788415076,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plant-care-local",
+   "label": "plant-care-local",
+   "kind": "skill",
+   "timestamp": 1791982095,
+   "category": "home",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items-deep",
+   "label": "meeting-action-items-deep",
+   "kind": "skill",
+   "timestamp": 1783390953,
+   "category": "productivity",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv-notes",
+   "label": "arxiv-notes",
+   "kind": "skill",
+   "timestamp": 1786067992,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review-local",
+   "label": "literature-review-local",
+   "kind": "skill",
+   "timestamp": 1790341984,
+   "category": "research",
+   "useCount": 16,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "youtube-content-batch",
+   "label": "youtube-content-batch",
+   "kind": "skill",
+   "timestamp": 1792907340,
+   "category": "media",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review-batch",
+   "label": "literature-review-batch",
+   "kind": "skill",
+   "timestamp": 1787443214,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync-deep",
+   "label": "notion-sync-deep",
+   "kind": "skill",
+   "timestamp": 1788693084,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace-ops",
+   "label": "google-workspace-ops",
+   "kind": "skill",
+   "timestamp": 1784934742,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "clip-finder-local",
+   "label": "clip-finder-local",
+   "kind": "skill",
+   "timestamp": 1783271260,
+   "category": "media",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "podcast-notes-ops",
+   "label": "podcast-notes-ops",
+   "kind": "skill",
+   "timestamp": 1783861555,
+   "category": "media",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-review",
+   "label": "competitor-news-monitor-review",
+   "kind": "skill",
+   "timestamp": 1783951321,
+   "category": "research",
+   "useCount": 24,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace-notes",
+   "label": "google-workspace-notes",
+   "kind": "skill",
+   "timestamp": 1783951216,
+   "category": "productivity",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning-deep",
+   "label": "travel-planning-deep",
+   "kind": "skill",
+   "timestamp": 1783212831,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "find-nearby-lite",
+   "label": "find-nearby-lite",
+   "kind": "skill",
+   "timestamp": 1790330406,
+   "category": "home",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "meeting-action-items-lite",
+   "label": "meeting-action-items-lite",
+   "kind": "skill",
+   "timestamp": 1787892908,
+   "category": "productivity",
+   "useCount": 16,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning-ops",
+   "label": "travel-planning-ops",
+   "kind": "skill",
+   "timestamp": 1791147525,
+   "category": "productivity",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "podcast-notes-local",
+   "label": "podcast-notes-local",
+   "kind": "skill",
+   "timestamp": 1783543125,
+   "category": "media",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "calendar-triage-review",
+   "label": "calendar-triage-review",
+   "kind": "skill",
+   "timestamp": 1784072488,
+   "category": "productivity",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "recipe-planner-local",
+   "label": "recipe-planner-local",
+   "kind": "skill",
+   "timestamp": 1783227823,
+   "category": "home",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace-local",
+   "label": "google-workspace-local",
+   "kind": "skill",
+   "timestamp": 1785674214,
+   "category": "productivity",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "podcast-notes-review",
+   "label": "podcast-notes-review",
+   "kind": "skill",
+   "timestamp": 1783304497,
+   "category": "media",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-deep",
+   "label": "competitor-news-monitor-deep",
+   "kind": "skill",
+   "timestamp": 1786075754,
+   "category": "research",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items-lite",
+   "label": "document-to-action-items-lite",
+   "kind": "skill",
+   "timestamp": 1785824615,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning-lite",
+   "label": "travel-planning-lite",
+   "kind": "skill",
+   "timestamp": 1785407616,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "thumbnail-variants-batch",
+   "label": "thumbnail-variants-batch",
+   "kind": "skill",
+   "timestamp": 1790362829,
+   "category": "media",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "home-inventory-lite",
+   "label": "home-inventory-lite",
+   "kind": "skill",
+   "timestamp": 1784761365,
+   "category": "home",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "linear-ops",
+   "label": "linear-ops",
+   "kind": "skill",
+   "timestamp": 1790482972,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "linear-lite",
+   "label": "linear-lite",
+   "kind": "skill",
+   "timestamp": 1785325359,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-batch",
+   "label": "paper-summaries-batch",
+   "kind": "skill",
+   "timestamp": 1785886919,
+   "category": "research",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review-ops",
+   "label": "literature-review-ops",
+   "kind": "skill",
+   "timestamp": 1783423874,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-review",
+   "label": "blogwatcher-review",
+   "kind": "skill",
+   "timestamp": 1790333064,
+   "category": "research",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "expense-reports-lite",
+   "label": "expense-reports-lite",
+   "kind": "skill",
+   "timestamp": 1788767582,
+   "category": "productivity",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting-review",
+   "label": "dataset-scouting-review",
+   "kind": "skill",
+   "timestamp": 1790895014,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weekly-review-planning-local",
+   "label": "weekly-review-planning-local",
+   "kind": "skill",
+   "timestamp": 1787843948,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "thumbnail-variants-notes",
+   "label": "thumbnail-variants-notes",
+   "kind": "skill",
+   "timestamp": 1791793978,
+   "category": "media",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weekly-review-planning-batch",
+   "label": "weekly-review-planning-batch",
+   "kind": "skill",
+   "timestamp": 1783508795,
+   "category": "productivity",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting-lite",
+   "label": "dataset-scouting-lite",
+   "kind": "skill",
+   "timestamp": 1783115394,
+   "category": "research",
+   "useCount": 7,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:0",
+   "label": "deploy steps",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1792452212,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:1",
+   "label": "favorite tools",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1793141332,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:2",
+   "label": "people and roles",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790978956,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:3",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1792888317,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:4",
+   "label": "review style",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1792925317,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:5",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1784435061,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:6",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788860551,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:7",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1785622585,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:8",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1792507123,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:9",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1785054529,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:10",
+   "label": "review style",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1785073734,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:11",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790648021,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:12",
+   "label": "favorite tools",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1785755521,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:13",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788185357,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:vesper:14",
+   "label": "release checklist",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1789291355,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "microsoft-office",
+   "target": "travel-planning-lite"
+  },
+  {
+   "source": "travel-planning",
+   "target": "google-workspace-local"
+  },
+  {
+   "source": "travel-planning",
+   "target": "google-workspace-notes"
+  },
+  {
+   "source": "competitor-news-monitor",
+   "target": "dataset-scouting-lite"
+  },
+  {
+   "source": "google-workspace",
+   "target": "google-workspace-local"
+  },
+  {
+   "source": "google-workspace",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "youtube-content",
+   "target": "clip-finder-local"
+  },
+  {
+   "source": "youtube-content",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "literature-review",
+   "target": "literature-review-ops"
+  },
+  {
+   "source": "podcast-notes",
+   "target": "thumbnail-variants-batch"
+  },
+  {
+   "source": "patent-search",
+   "target": "competitor-news-monitor-deep"
+  },
+  {
+   "source": "meeting-action-items",
+   "target": "linear-ops"
+  },
+  {
+   "source": "weekly-review-planning",
+   "target": "document-to-action-items"
+  },
+  {
+   "source": "rss-feeds",
+   "target": "dataset-scouting-review"
+  },
+  {
+   "source": "rss-feeds",
+   "target": "blogwatcher"
+  },
+  {
+   "source": "recipe-planner",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "clip-finder",
+   "target": "youtube-content"
+  },
+  {
+   "source": "clip-finder",
+   "target": "podcast-notes-ops"
+  },
+  {
+   "source": "spotify",
+   "target": "find-nearby"
+  },
+  {
+   "source": "plant-care",
+   "target": "home-inventory"
+  },
+  {
+   "source": "find-nearby",
+   "target": "plant-care-local"
+  },
+  {
+   "source": "find-nearby",
+   "target": "find-nearby-lite"
+  },
+  {
+   "source": "document-to-action-items",
+   "target": "google-workspace-ops"
+  },
+  {
+   "source": "inbox-zero",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "gif-search",
+   "target": "thumbnail-variants-notes"
+  },
+  {
+   "source": "gif-search",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "polymarket",
+   "target": "literature-review-ops"
+  },
+  {
+   "source": "polymarket",
+   "target": "patent-search"
+  },
+  {
+   "source": "calendar-triage",
+   "target": "linear-ops"
+  },
+  {
+   "source": "thumbnail-variants",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "paper-summaries-review",
+   "target": "benchmark-reading"
+  },
+  {
+   "source": "paper-summaries-review",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "meeting-action-items-deep",
+   "target": "weekly-review-planning-batch"
+  },
+  {
+   "source": "arxiv-notes",
+   "target": "paper-summaries-review"
+  },
+  {
+   "source": "arxiv-notes",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "literature-review-local",
+   "target": "blogwatcher-review"
+  },
+  {
+   "source": "youtube-content-batch",
+   "target": "podcast-notes-ops"
+  },
+  {
+   "source": "youtube-content-batch",
+   "target": "gif-search"
+  },
+  {
+   "source": "notion-sync-deep",
+   "target": "travel-planning-lite"
+  },
+  {
+   "source": "notion-sync-deep",
+   "target": "microsoft-office"
+  },
+  {
+   "source": "google-workspace-ops",
+   "target": "travel-planning"
+  },
+  {
+   "source": "clip-finder-local",
+   "target": "thumbnail-variants"
+  },
+  {
+   "source": "clip-finder-local",
+   "target": "whisper-transcripts"
+  },
+  {
+   "source": "clip-finder-local",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "competitor-news-monitor-review",
+   "target": "literature-review"
+  },
+  {
+   "source": "competitor-news-monitor-review",
+   "target": "benchmark-reading"
+  },
+  {
+   "source": "google-workspace-notes",
+   "target": "linear"
+  },
+  {
+   "source": "google-workspace-notes",
+   "target": "expense-reports-lite"
+  },
+  {
+   "source": "google-workspace-notes",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "travel-planning-deep",
+   "target": "travel-planning-ops"
+  },
+  {
+   "source": "find-nearby-lite",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "meeting-action-items-lite",
+   "target": "notion-sync-deep"
+  },
+  {
+   "source": "travel-planning-ops",
+   "target": "calendar-triage"
+  },
+  {
+   "source": "podcast-notes-local",
+   "target": "podcast-notes-review"
+  },
+  {
+   "source": "recipe-planner-local",
+   "target": "home-inventory-lite"
+  },
+  {
+   "source": "recipe-planner-local",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "google-workspace-local",
+   "target": "linear-ops"
+  },
+  {
+   "source": "podcast-notes-review",
+   "target": "clip-finder"
+  },
+  {
+   "source": "document-to-action-items-lite",
+   "target": "weekly-review-planning-local"
+  },
+  {
+   "source": "travel-planning-lite",
+   "target": "calendar-triage-review"
+  },
+  {
+   "source": "travel-planning-lite",
+   "target": "google-workspace-ops"
+  },
+  {
+   "source": "travel-planning-lite",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "thumbnail-variants-batch",
+   "target": "clip-finder-local"
+  },
+  {
+   "source": "linear-ops",
+   "target": "weekly-review-planning-local"
+  },
+  {
+   "source": "linear-ops",
+   "target": "google-workspace"
+  },
+  {
+   "source": "paper-summaries-batch",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "literature-review-ops",
+   "target": "blogwatcher"
+  },
+  {
+   "source": "literature-review-ops",
+   "target": "dataset-scouting-lite"
+  },
+  {
+   "source": "blogwatcher-review",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "expense-reports-lite",
+   "target": "google-workspace"
+  },
+  {
+   "source": "weekly-review-planning-local",
+   "target": "expense-reports"
+  },
+  {
+   "source": "weekly-review-planning-batch",
+   "target": "travel-planning"
+  },
+  {
+   "source": "dataset-scouting-lite",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "dataset-scouting-lite",
+   "target": "competitor-news-monitor-review"
+  },
+  {
+   "source": "dataset-scouting-lite",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "memory:vesper:0",
+   "target": "pdf"
+  },
+  {
+   "source": "memory:vesper:0",
+   "target": "blogwatcher-review"
+  },
+  {
+   "source": "memory:vesper:0",
+   "target": "arxiv"
+  },
+  {
+   "source": "memory:vesper:1",
+   "target": "weekly-review-planning"
+  },
+  {
+   "source": "memory:vesper:1",
+   "target": "literature-review-batch"
+  },
+  {
+   "source": "memory:vesper:1",
+   "target": "spotify"
+  },
+  {
+   "source": "memory:vesper:1",
+   "target": "podcast-notes-local"
+  },
+  {
+   "source": "memory:vesper:2",
+   "target": "expense-reports"
+  },
+  {
+   "source": "memory:vesper:2",
+   "target": "travel-planning-ops"
+  },
+  {
+   "source": "memory:vesper:2",
+   "target": "paper-summaries-batch"
+  },
+  {
+   "source": "memory:vesper:3",
+   "target": "paper-summaries-review"
+  },
+  {
+   "source": "memory:vesper:3",
+   "target": "plant-care-local"
+  },
+  {
+   "source": "memory:vesper:3",
+   "target": "google-workspace-ops"
+  },
+  {
+   "source": "memory:vesper:4",
+   "target": "find-nearby-lite"
+  },
+  {
+   "source": "memory:vesper:5",
+   "target": "document-to-action-items"
+  },
+  {
+   "source": "memory:vesper:5",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "memory:vesper:5",
+   "target": "arxiv"
+  },
+  {
+   "source": "memory:vesper:6",
+   "target": "podcast-notes"
+  },
+  {
+   "source": "memory:vesper:7",
+   "target": "notion-sync"
+  },
+  {
+   "source": "memory:vesper:7",
+   "target": "travel-planning-lite"
+  },
+  {
+   "source": "memory:vesper:7",
+   "target": "openhue"
+  },
+  {
+   "source": "memory:vesper:7",
+   "target": "benchmark-reading"
+  },
+  {
+   "source": "memory:vesper:8",
+   "target": "travel-planning-deep"
+  },
+  {
+   "source": "memory:vesper:8",
+   "target": "plant-care-local"
+  },
+  {
+   "source": "memory:vesper:8",
+   "target": "linear"
+  },
+  {
+   "source": "memory:vesper:9",
+   "target": "literature-review"
+  },
+  {
+   "source": "memory:vesper:9",
+   "target": "gif-search"
+  },
+  {
+   "source": "memory:vesper:10",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "memory:vesper:11",
+   "target": "openhue"
+  },
+  {
+   "source": "memory:vesper:12",
+   "target": "podcast-notes-local"
+  },
+  {
+   "source": "memory:vesper:12",
+   "target": "travel-planning-ops"
+  },
+  {
+   "source": "memory:vesper:12",
+   "target": "competitor-news-monitor-review"
+  },
+  {
+   "source": "memory:vesper:12",
+   "target": "weekly-review-planning-local"
+  },
+  {
+   "source": "memory:vesper:13",
+   "target": "arxiv-notes"
+  },
+  {
+   "source": "memory:vesper:13",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "memory:vesper:13",
+   "target": "expense-reports-lite"
+  },
+  {
+   "source": "memory:vesper:14",
+   "target": "meeting-action-items"
+  },
+  {
+   "source": "memory:vesper:14",
+   "target": "document-to-action-items-lite"
+  },
+  {
+   "source": "memory:vesper:14",
+   "target": "competitor-news-monitor"
+  },
+  {
+   "source": "memory:vesper:14",
+   "target": "clip-finder-local"
+  }
+ ],
+ "clusters": [],
+ "stats": {
+  "nodes": 89
+ }
+}

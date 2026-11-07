@@ -1,0 +1,81 @@
+{
+ "nodes": [
+  {
+   "id": "writing-plans",
+   "label": "writing-plans",
+   "kind": "skill",
+   "timestamp": 1780000000,
+   "category": "software-development",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow",
+   "label": "github-pr-workflow",
+   "kind": "skill",
+   "timestamp": 1781000000,
+   "category": "github",
+   "useCount": 40,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "old-skill",
+   "label": "old-skill",
+   "kind": "skill",
+   "timestamp": 1779000000,
+   "category": "misc",
+   "useCount": 1,
+   "state": "archived",
+   "pinned": false
+  },
+  {
+   "id": "memory:memory:0:abc",
+   "label": "SECRET TEXT that must not render",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1782000000,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active"
+  },
+  {
+   "id": "memory:user:0:def",
+   "label": "user profile secret",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1782500000,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active"
+  }
+ ],
+ "edges": [
+  {
+   "source": "writing-plans",
+   "target": "github-pr-workflow"
+  },
+  {
+   "source": "github-pr-workflow",
+   "target": "writing-plans"
+  },
+  {
+   "source": "memory:memory:0:abc",
+   "target": "writing-plans"
+  },
+  {
+   "source": "old-skill",
+   "target": "writing-plans"
+  },
+  {
+   "source": "ghost",
+   "target": "writing-plans"
+  }
+ ],
+ "clusters": [],
+ "memory": [],
+ "stats": {
+  "nodes": 5
+ }
+}

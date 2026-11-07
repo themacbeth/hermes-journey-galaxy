@@ -1,0 +1,1167 @@
+{
+ "name": "KESTREL",
+ "nodes": [
+  {
+   "id": "cron-jobs",
+   "label": "cron-jobs",
+   "kind": "skill",
+   "timestamp": 1793116015,
+   "category": "devops",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spike",
+   "label": "spike",
+   "kind": "skill",
+   "timestamp": 1792615933,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gguf-quantization",
+   "label": "gguf-quantization",
+   "kind": "skill",
+   "timestamp": 1787591040,
+   "category": "mlops",
+   "useCount": 10,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging",
+   "label": "systematic-debugging",
+   "kind": "skill",
+   "timestamp": 1787148319,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "lora-merges",
+   "label": "lora-merges",
+   "kind": "skill",
+   "timestamp": 1785265963,
+   "category": "mlops",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "subagent-driven-development",
+   "label": "subagent-driven-development",
+   "kind": "skill",
+   "timestamp": 1788656062,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts",
+   "label": "migration-scripts",
+   "kind": "skill",
+   "timestamp": 1789116254,
+   "category": "software-development",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks",
+   "label": "api-contract-checks",
+   "kind": "skill",
+   "timestamp": 1791940833,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "eval-harness",
+   "label": "eval-harness",
+   "kind": "skill",
+   "timestamp": 1786355983,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades",
+   "label": "dependency-upgrades",
+   "kind": "skill",
+   "timestamp": 1787635870,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "refactor-safely",
+   "label": "refactor-safely",
+   "kind": "skill",
+   "timestamp": 1790601437,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow",
+   "label": "github-pr-workflow",
+   "kind": "skill",
+   "timestamp": 1791917378,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling",
+   "label": "perf-profiling",
+   "kind": "skill",
+   "timestamp": 1793215512,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "simplify-code",
+   "label": "simplify-code",
+   "kind": "skill",
+   "timestamp": 1788367720,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-cleaning",
+   "label": "dataset-cleaning",
+   "kind": "skill",
+   "timestamp": 1790439213,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "docker-compose",
+   "label": "docker-compose",
+   "kind": "skill",
+   "timestamp": 1785029304,
+   "category": "devops",
+   "useCount": 239,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "plan",
+   "label": "plan",
+   "kind": "skill",
+   "timestamp": 1790902475,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "fine-tuning-with-trl",
+   "label": "fine-tuning-with-trl",
+   "kind": "skill",
+   "timestamp": 1791210541,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "backup-checks",
+   "label": "backup-checks",
+   "kind": "skill",
+   "timestamp": 1785185858,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "log-forensics",
+   "label": "log-forensics",
+   "kind": "skill",
+   "timestamp": 1785124078,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes",
+   "label": "release-notes",
+   "kind": "skill",
+   "timestamp": 1788339433,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development",
+   "label": "test-driven-development",
+   "kind": "skill",
+   "timestamp": 1784870279,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "webhook-subscriptions",
+   "label": "webhook-subscriptions",
+   "kind": "skill",
+   "timestamp": 1788706494,
+   "category": "devops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "flaky-test-triage",
+   "label": "flaky-test-triage",
+   "kind": "skill",
+   "timestamp": 1787088707,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review",
+   "label": "requesting-code-review",
+   "kind": "skill",
+   "timestamp": 1785674761,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dns-debugging",
+   "label": "dns-debugging",
+   "kind": "skill",
+   "timestamp": 1785343337,
+   "category": "devops",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weights-and-biases",
+   "label": "weights-and-biases",
+   "kind": "skill",
+   "timestamp": 1785518382,
+   "category": "mlops",
+   "useCount": 56,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "huggingface-hub",
+   "label": "huggingface-hub",
+   "kind": "skill",
+   "timestamp": 1790135103,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection",
+   "label": "codebase-inspection",
+   "kind": "skill",
+   "timestamp": 1785975882,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gpu-cluster-ops",
+   "label": "gpu-cluster-ops",
+   "kind": "skill",
+   "timestamp": 1785438564,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts",
+   "label": "uptime-alerts",
+   "kind": "skill",
+   "timestamp": 1786306160,
+   "category": "devops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "vllm-serving",
+   "label": "vllm-serving",
+   "kind": "skill",
+   "timestamp": 1785845571,
+   "category": "mlops",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans",
+   "label": "writing-plans",
+   "kind": "skill",
+   "timestamp": 1792060264,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dogfood",
+   "label": "dogfood",
+   "kind": "skill",
+   "timestamp": 1791277738,
+   "category": "software-development",
+   "useCount": 34,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-code-review",
+   "label": "github-code-review",
+   "kind": "skill",
+   "timestamp": 1789029564,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "secrets-rotation",
+   "label": "secrets-rotation",
+   "kind": "skill",
+   "timestamp": 1788834475,
+   "category": "devops",
+   "useCount": 75,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues",
+   "label": "github-issues",
+   "kind": "skill",
+   "timestamp": 1791689465,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "ci-repair",
+   "label": "ci-repair",
+   "kind": "skill",
+   "timestamp": 1785852032,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "llama-cpp",
+   "label": "llama-cpp",
+   "kind": "skill",
+   "timestamp": 1788022598,
+   "category": "mlops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "tokenizer-checks",
+   "label": "tokenizer-checks",
+   "kind": "skill",
+   "timestamp": 1788393101,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging-batch",
+   "label": "systematic-debugging-batch",
+   "kind": "skill",
+   "timestamp": 1788555763,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection-notes",
+   "label": "codebase-inspection-notes",
+   "kind": "skill",
+   "timestamp": 1784869420,
+   "category": "software-development",
+   "useCount": 23,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan-local",
+   "label": "plan-local",
+   "kind": "skill",
+   "timestamp": 1785497274,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks-batch",
+   "label": "api-contract-checks-batch",
+   "kind": "skill",
+   "timestamp": 1789654768,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues-local",
+   "label": "github-issues-local",
+   "kind": "skill",
+   "timestamp": 1785499530,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan-notes",
+   "label": "plan-notes",
+   "kind": "skill",
+   "timestamp": 1787586763,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-code-review-ops",
+   "label": "github-code-review-ops",
+   "kind": "skill",
+   "timestamp": 1786068398,
+   "category": "software-development",
+   "useCount": 22,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review-ops",
+   "label": "requesting-code-review-ops",
+   "kind": "skill",
+   "timestamp": 1788965979,
+   "category": "software-development",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "docker-compose-deep",
+   "label": "docker-compose-deep",
+   "kind": "skill",
+   "timestamp": 1786312704,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection-batch",
+   "label": "codebase-inspection-batch",
+   "kind": "skill",
+   "timestamp": 1786642912,
+   "category": "software-development",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "vllm-serving-batch",
+   "label": "vllm-serving-batch",
+   "kind": "skill",
+   "timestamp": 1789010399,
+   "category": "mlops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling-notes",
+   "label": "perf-profiling-notes",
+   "kind": "skill",
+   "timestamp": 1786374566,
+   "category": "software-development",
+   "useCount": 12,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "uptime-alerts-lite",
+   "label": "uptime-alerts-lite",
+   "kind": "skill",
+   "timestamp": 1790739036,
+   "category": "devops",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "backup-checks-batch",
+   "label": "backup-checks-batch",
+   "kind": "skill",
+   "timestamp": 1789485866,
+   "category": "devops",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "secrets-rotation-notes",
+   "label": "secrets-rotation-notes",
+   "kind": "skill",
+   "timestamp": 1787245358,
+   "category": "devops",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans-deep",
+   "label": "writing-plans-deep",
+   "kind": "skill",
+   "timestamp": 1786936901,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "webhook-subscriptions-local",
+   "label": "webhook-subscriptions-local",
+   "kind": "skill",
+   "timestamp": 1791963625,
+   "category": "devops",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "systematic-debugging-ops",
+   "label": "systematic-debugging-ops",
+   "kind": "skill",
+   "timestamp": 1788465523,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks-notes",
+   "label": "api-contract-checks-notes",
+   "kind": "skill",
+   "timestamp": 1784867302,
+   "category": "software-development",
+   "useCount": 19,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "gpu-cluster-ops-deep",
+   "label": "gpu-cluster-ops-deep",
+   "kind": "skill",
+   "timestamp": 1785040463,
+   "category": "devops",
+   "useCount": 48,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:0",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1792453920,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:1",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1789318667,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:2",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790673331,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:3",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1792183867,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:4",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1792001453,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:5",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1789184749,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:6",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1793154981,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:7",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1791196633,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:8",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1790165271,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:9",
+   "label": "style guide",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1785570725,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:10",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1787568267,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:kestrel:11",
+   "label": "release checklist",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788021222,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "cron-jobs",
+   "target": "uptime-alerts"
+  },
+  {
+   "source": "cron-jobs",
+   "target": "log-forensics"
+  },
+  {
+   "source": "spike",
+   "target": "plan-local"
+  },
+  {
+   "source": "spike",
+   "target": "dogfood"
+  },
+  {
+   "source": "gguf-quantization",
+   "target": "vllm-serving-batch"
+  },
+  {
+   "source": "gguf-quantization",
+   "target": "eval-harness"
+  },
+  {
+   "source": "systematic-debugging",
+   "target": "api-contract-checks-batch"
+  },
+  {
+   "source": "lora-merges",
+   "target": "vllm-serving"
+  },
+  {
+   "source": "lora-merges",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "subagent-driven-development",
+   "target": "github-issues-local"
+  },
+  {
+   "source": "migration-scripts",
+   "target": "plan-notes"
+  },
+  {
+   "source": "migration-scripts",
+   "target": "requesting-code-review-ops"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "requesting-code-review"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "simplify-code"
+  },
+  {
+   "source": "dependency-upgrades",
+   "target": "docker-compose"
+  },
+  {
+   "source": "github-pr-workflow",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "perf-profiling",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "perf-profiling",
+   "target": "perf-profiling-notes"
+  },
+  {
+   "source": "perf-profiling",
+   "target": "docker-compose"
+  },
+  {
+   "source": "simplify-code",
+   "target": "systematic-debugging-batch"
+  },
+  {
+   "source": "simplify-code",
+   "target": "docker-compose"
+  },
+  {
+   "source": "docker-compose",
+   "target": "gpu-cluster-ops-deep"
+  },
+  {
+   "source": "docker-compose",
+   "target": "secrets-rotation-notes"
+  },
+  {
+   "source": "plan",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "fine-tuning-with-trl",
+   "target": "vllm-serving"
+  },
+  {
+   "source": "backup-checks",
+   "target": "log-forensics"
+  },
+  {
+   "source": "backup-checks",
+   "target": "gpu-cluster-ops"
+  },
+  {
+   "source": "log-forensics",
+   "target": "uptime-alerts"
+  },
+  {
+   "source": "log-forensics",
+   "target": "docker-compose"
+  },
+  {
+   "source": "release-notes",
+   "target": "dogfood"
+  },
+  {
+   "source": "release-notes",
+   "target": "requesting-code-review"
+  },
+  {
+   "source": "flaky-test-triage",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "flaky-test-triage",
+   "target": "requesting-code-review"
+  },
+  {
+   "source": "flaky-test-triage",
+   "target": "docker-compose"
+  },
+  {
+   "source": "requesting-code-review",
+   "target": "subagent-driven-development"
+  },
+  {
+   "source": "dns-debugging",
+   "target": "webhook-subscriptions-local"
+  },
+  {
+   "source": "dns-debugging",
+   "target": "log-forensics"
+  },
+  {
+   "source": "weights-and-biases",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "weights-and-biases",
+   "target": "docker-compose"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "docker-compose"
+  },
+  {
+   "source": "uptime-alerts",
+   "target": "webhook-subscriptions-local"
+  },
+  {
+   "source": "vllm-serving",
+   "target": "vllm-serving-batch"
+  },
+  {
+   "source": "vllm-serving",
+   "target": "llama-cpp"
+  },
+  {
+   "source": "writing-plans",
+   "target": "test-driven-development"
+  },
+  {
+   "source": "writing-plans",
+   "target": "requesting-code-review-ops"
+  },
+  {
+   "source": "dogfood",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "github-issues",
+   "target": "writing-plans"
+  },
+  {
+   "source": "ci-repair",
+   "target": "secrets-rotation-notes"
+  },
+  {
+   "source": "llama-cpp",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "llama-cpp",
+   "target": "gguf-quantization"
+  },
+  {
+   "source": "tokenizer-checks",
+   "target": "fine-tuning-with-trl"
+  },
+  {
+   "source": "tokenizer-checks",
+   "target": "lora-merges"
+  },
+  {
+   "source": "systematic-debugging-batch",
+   "target": "github-code-review-ops"
+  },
+  {
+   "source": "codebase-inspection-notes",
+   "target": "plan-notes"
+  },
+  {
+   "source": "api-contract-checks-batch",
+   "target": "api-contract-checks-notes"
+  },
+  {
+   "source": "github-issues-local",
+   "target": "writing-plans"
+  },
+  {
+   "source": "github-issues-local",
+   "target": "plan-notes"
+  },
+  {
+   "source": "github-issues-local",
+   "target": "docker-compose"
+  },
+  {
+   "source": "plan-notes",
+   "target": "requesting-code-review-ops"
+  },
+  {
+   "source": "github-code-review-ops",
+   "target": "api-contract-checks-batch"
+  },
+  {
+   "source": "github-code-review-ops",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "requesting-code-review-ops",
+   "target": "github-issues"
+  },
+  {
+   "source": "docker-compose-deep",
+   "target": "backup-checks"
+  },
+  {
+   "source": "docker-compose-deep",
+   "target": "uptime-alerts-lite"
+  },
+  {
+   "source": "vllm-serving-batch",
+   "target": "docker-compose"
+  },
+  {
+   "source": "perf-profiling-notes",
+   "target": "api-contract-checks-batch"
+  },
+  {
+   "source": "uptime-alerts-lite",
+   "target": "dns-debugging"
+  },
+  {
+   "source": "uptime-alerts-lite",
+   "target": "cron-jobs"
+  },
+  {
+   "source": "backup-checks-batch",
+   "target": "backup-checks"
+  },
+  {
+   "source": "backup-checks-batch",
+   "target": "uptime-alerts"
+  },
+  {
+   "source": "secrets-rotation-notes",
+   "target": "webhook-subscriptions-local"
+  },
+  {
+   "source": "writing-plans-deep",
+   "target": "release-notes"
+  },
+  {
+   "source": "webhook-subscriptions-local",
+   "target": "ci-repair"
+  },
+  {
+   "source": "systematic-debugging-ops",
+   "target": "perf-profiling-notes"
+  },
+  {
+   "source": "systematic-debugging-ops",
+   "target": "github-code-review-ops"
+  },
+  {
+   "source": "api-contract-checks-notes",
+   "target": "github-code-review-ops"
+  },
+  {
+   "source": "api-contract-checks-notes",
+   "target": "perf-profiling-notes"
+  },
+  {
+   "source": "gpu-cluster-ops-deep",
+   "target": "gpu-cluster-ops"
+  },
+  {
+   "source": "memory:kestrel:0",
+   "target": "ci-repair"
+  },
+  {
+   "source": "memory:kestrel:0",
+   "target": "migration-scripts"
+  },
+  {
+   "source": "memory:kestrel:1",
+   "target": "plan-local"
+  },
+  {
+   "source": "memory:kestrel:2",
+   "target": "docker-compose"
+  },
+  {
+   "source": "memory:kestrel:2",
+   "target": "systematic-debugging-batch"
+  },
+  {
+   "source": "memory:kestrel:2",
+   "target": "tokenizer-checks"
+  },
+  {
+   "source": "memory:kestrel:3",
+   "target": "secrets-rotation"
+  },
+  {
+   "source": "memory:kestrel:3",
+   "target": "huggingface-hub"
+  },
+  {
+   "source": "memory:kestrel:4",
+   "target": "huggingface-hub"
+  },
+  {
+   "source": "memory:kestrel:4",
+   "target": "systematic-debugging-ops"
+  },
+  {
+   "source": "memory:kestrel:4",
+   "target": "docker-compose"
+  },
+  {
+   "source": "memory:kestrel:5",
+   "target": "log-forensics"
+  },
+  {
+   "source": "memory:kestrel:5",
+   "target": "systematic-debugging-ops"
+  },
+  {
+   "source": "memory:kestrel:6",
+   "target": "webhook-subscriptions-local"
+  },
+  {
+   "source": "memory:kestrel:7",
+   "target": "release-notes"
+  },
+  {
+   "source": "memory:kestrel:7",
+   "target": "gpu-cluster-ops"
+  },
+  {
+   "source": "memory:kestrel:8",
+   "target": "writing-plans"
+  },
+  {
+   "source": "memory:kestrel:8",
+   "target": "codebase-inspection"
+  },
+  {
+   "source": "memory:kestrel:8",
+   "target": "lora-merges"
+  },
+  {
+   "source": "memory:kestrel:9",
+   "target": "github-issues"
+  },
+  {
+   "source": "memory:kestrel:9",
+   "target": "systematic-debugging-batch"
+  },
+  {
+   "source": "memory:kestrel:9",
+   "target": "systematic-debugging-ops"
+  },
+  {
+   "source": "memory:kestrel:9",
+   "target": "docker-compose-deep"
+  },
+  {
+   "source": "memory:kestrel:10",
+   "target": "codebase-inspection-batch"
+  },
+  {
+   "source": "memory:kestrel:11",
+   "target": "codebase-inspection"
+  },
+  {
+   "source": "memory:kestrel:11",
+   "target": "api-contract-checks-batch"
+  },
+  {
+   "source": "memory:kestrel:11",
+   "target": "dogfood"
+  },
+  {
+   "source": "memory:kestrel:11",
+   "target": "codebase-inspection-notes"
+  }
+ ],
+ "clusters": [],
+ "stats": {
+  "nodes": 72
+ }
+}

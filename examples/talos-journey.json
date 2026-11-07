@@ -1,0 +1,541 @@
+{
+ "name": "TALOS",
+ "nodes": [
+  {
+   "id": "systematic-debugging",
+   "label": "systematic-debugging",
+   "kind": "skill",
+   "timestamp": 1788840495,
+   "category": "software-development",
+   "useCount": 191,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "linear",
+   "label": "linear",
+   "kind": "skill",
+   "timestamp": 1790264134,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "perf-profiling",
+   "label": "perf-profiling",
+   "kind": "skill",
+   "timestamp": 1788876975,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "writing-plans",
+   "label": "writing-plans",
+   "kind": "skill",
+   "timestamp": 1790208682,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "notion-sync",
+   "label": "notion-sync",
+   "kind": "skill",
+   "timestamp": 1788873577,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "migration-scripts",
+   "label": "migration-scripts",
+   "kind": "skill",
+   "timestamp": 1791101290,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "requesting-code-review",
+   "label": "requesting-code-review",
+   "kind": "skill",
+   "timestamp": 1790830284,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "pdf",
+   "label": "pdf",
+   "kind": "skill",
+   "timestamp": 1789905839,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "refactor-safely",
+   "label": "refactor-safely",
+   "kind": "skill",
+   "timestamp": 1792874819,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "codebase-inspection",
+   "label": "codebase-inspection",
+   "kind": "skill",
+   "timestamp": 1789910343,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "test-driven-development",
+   "label": "test-driven-development",
+   "kind": "skill",
+   "timestamp": 1788740576,
+   "category": "software-development",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "document-to-action-items",
+   "label": "document-to-action-items",
+   "kind": "skill",
+   "timestamp": 1790019217,
+   "category": "productivity",
+   "useCount": 11,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "inbox-zero",
+   "label": "inbox-zero",
+   "kind": "skill",
+   "timestamp": 1789142696,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "api-contract-checks",
+   "label": "api-contract-checks",
+   "kind": "skill",
+   "timestamp": 1788808661,
+   "category": "software-development",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "google-workspace",
+   "label": "google-workspace",
+   "kind": "skill",
+   "timestamp": 1790370426,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dogfood",
+   "label": "dogfood",
+   "kind": "skill",
+   "timestamp": 1790301701,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "release-notes",
+   "label": "release-notes",
+   "kind": "skill",
+   "timestamp": 1789473788,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "flaky-test-triage",
+   "label": "flaky-test-triage",
+   "kind": "skill",
+   "timestamp": 1789218413,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dependency-upgrades",
+   "label": "dependency-upgrades",
+   "kind": "skill",
+   "timestamp": 1789101319,
+   "category": "software-development",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plan",
+   "label": "plan",
+   "kind": "skill",
+   "timestamp": 1791119112,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "calendar-triage",
+   "label": "calendar-triage",
+   "kind": "skill",
+   "timestamp": 1789266854,
+   "category": "productivity",
+   "useCount": 4,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "weekly-review-planning",
+   "label": "weekly-review-planning",
+   "kind": "skill",
+   "timestamp": 1792135337,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-pr-workflow",
+   "label": "github-pr-workflow",
+   "kind": "skill",
+   "timestamp": 1791367288,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-issues",
+   "label": "github-issues",
+   "kind": "skill",
+   "timestamp": 1790650935,
+   "category": "software-development",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "microsoft-office",
+   "label": "microsoft-office",
+   "kind": "skill",
+   "timestamp": 1789327123,
+   "category": "productivity",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "github-code-review",
+   "label": "github-code-review",
+   "kind": "skill",
+   "timestamp": 1793118479,
+   "category": "software-development",
+   "useCount": 9,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "expense-reports",
+   "label": "expense-reports",
+   "kind": "skill",
+   "timestamp": 1790022233,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "travel-planning",
+   "label": "travel-planning",
+   "kind": "skill",
+   "timestamp": 1792319963,
+   "category": "productivity",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:talos:0",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1791915960,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:talos:1",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790192561,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:talos:2",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1793030365,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:talos:3",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1793457651,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:talos:4",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1790785190,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:talos:5",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1792604383,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "systematic-debugging",
+   "target": "requesting-code-review"
+  },
+  {
+   "source": "linear",
+   "target": "calendar-triage"
+  },
+  {
+   "source": "perf-profiling",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "writing-plans",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "writing-plans",
+   "target": "migration-scripts"
+  },
+  {
+   "source": "notion-sync",
+   "target": "linear"
+  },
+  {
+   "source": "notion-sync",
+   "target": "weekly-review-planning"
+  },
+  {
+   "source": "migration-scripts",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "migration-scripts",
+   "target": "dogfood"
+  },
+  {
+   "source": "pdf",
+   "target": "document-to-action-items"
+  },
+  {
+   "source": "refactor-safely",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "refactor-safely",
+   "target": "release-notes"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "github-issues"
+  },
+  {
+   "source": "codebase-inspection",
+   "target": "github-code-review"
+  },
+  {
+   "source": "test-driven-development",
+   "target": "release-notes"
+  },
+  {
+   "source": "test-driven-development",
+   "target": "writing-plans"
+  },
+  {
+   "source": "document-to-action-items",
+   "target": "expense-reports"
+  },
+  {
+   "source": "document-to-action-items",
+   "target": "travel-planning"
+  },
+  {
+   "source": "document-to-action-items",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "inbox-zero",
+   "target": "calendar-triage"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "writing-plans"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "codebase-inspection"
+  },
+  {
+   "source": "api-contract-checks",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "google-workspace",
+   "target": "expense-reports"
+  },
+  {
+   "source": "google-workspace",
+   "target": "document-to-action-items"
+  },
+  {
+   "source": "dogfood",
+   "target": "test-driven-development"
+  },
+  {
+   "source": "release-notes",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "plan",
+   "target": "github-code-review"
+  },
+  {
+   "source": "calendar-triage",
+   "target": "pdf"
+  },
+  {
+   "source": "github-pr-workflow",
+   "target": "api-contract-checks"
+  },
+  {
+   "source": "github-issues",
+   "target": "dogfood"
+  },
+  {
+   "source": "github-issues",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "microsoft-office",
+   "target": "inbox-zero"
+  },
+  {
+   "source": "github-code-review",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "github-code-review",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "travel-planning",
+   "target": "notion-sync"
+  },
+  {
+   "source": "memory:talos:0",
+   "target": "refactor-safely"
+  },
+  {
+   "source": "memory:talos:1",
+   "target": "perf-profiling"
+  },
+  {
+   "source": "memory:talos:1",
+   "target": "flaky-test-triage"
+  },
+  {
+   "source": "memory:talos:1",
+   "target": "weekly-review-planning"
+  },
+  {
+   "source": "memory:talos:2",
+   "target": "systematic-debugging"
+  },
+  {
+   "source": "memory:talos:3",
+   "target": "notion-sync"
+  },
+  {
+   "source": "memory:talos:3",
+   "target": "dogfood"
+  },
+  {
+   "source": "memory:talos:3",
+   "target": "release-notes"
+  },
+  {
+   "source": "memory:talos:4",
+   "target": "release-notes"
+  },
+  {
+   "source": "memory:talos:5",
+   "target": "github-code-review"
+  }
+ ],
+ "clusters": [],
+ "stats": {
+  "nodes": 34
+ }
+}

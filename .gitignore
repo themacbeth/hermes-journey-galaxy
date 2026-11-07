@@ -1,0 +1,10 @@
+# real people's data: never commit
+journeys/*
+!journeys/README.md
+.galaxy/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/

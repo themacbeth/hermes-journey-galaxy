@@ -1,0 +1,843 @@
+{
+ "name": "LYRA",
+ "nodes": [
+  {
+   "id": "excalidraw",
+   "label": "excalidraw",
+   "kind": "skill",
+   "timestamp": 1792206458,
+   "category": "creative",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "color-palettes",
+   "label": "color-palettes",
+   "kind": "skill",
+   "timestamp": 1787122635,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "pixel-art",
+   "label": "pixel-art",
+   "kind": "skill",
+   "timestamp": 1787086334,
+   "category": "creative",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search",
+   "label": "patent-search",
+   "kind": "skill",
+   "timestamp": 1792178012,
+   "category": "research",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "rss-feeds",
+   "label": "rss-feeds",
+   "kind": "skill",
+   "timestamp": 1789611190,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "recipe-planner",
+   "label": "recipe-planner",
+   "kind": "skill",
+   "timestamp": 1787065617,
+   "category": "home",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "home-inventory",
+   "label": "home-inventory",
+   "kind": "skill",
+   "timestamp": 1787806259,
+   "category": "home",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "polymarket",
+   "label": "polymarket",
+   "kind": "skill",
+   "timestamp": 1788969769,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "benchmark-reading",
+   "label": "benchmark-reading",
+   "kind": "skill",
+   "timestamp": 1790041413,
+   "category": "research",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor",
+   "label": "competitor-news-monitor",
+   "kind": "skill",
+   "timestamp": 1791110399,
+   "category": "research",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "dataset-scouting",
+   "label": "dataset-scouting",
+   "kind": "skill",
+   "timestamp": 1790598880,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "plant-care",
+   "label": "plant-care",
+   "kind": "skill",
+   "timestamp": 1788058019,
+   "category": "home",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "poster-layout",
+   "label": "poster-layout",
+   "kind": "skill",
+   "timestamp": 1788384405,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "p5js",
+   "label": "p5js",
+   "kind": "skill",
+   "timestamp": 1787127286,
+   "category": "creative",
+   "useCount": 202,
+   "state": "active",
+   "pinned": true
+  },
+  {
+   "id": "title-cards",
+   "label": "title-cards",
+   "kind": "skill",
+   "timestamp": 1790840396,
+   "category": "creative",
+   "useCount": 22,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "ascii-art",
+   "label": "ascii-art",
+   "kind": "skill",
+   "timestamp": 1790801206,
+   "category": "creative",
+   "useCount": 8,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "architecture-diagram",
+   "label": "architecture-diagram",
+   "kind": "skill",
+   "timestamp": 1788704861,
+   "category": "creative",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "arxiv",
+   "label": "arxiv",
+   "kind": "skill",
+   "timestamp": 1789725779,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher",
+   "label": "blogwatcher",
+   "kind": "skill",
+   "timestamp": 1787133802,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "manim-video",
+   "label": "manim-video",
+   "kind": "skill",
+   "timestamp": 1790204253,
+   "category": "creative",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "spotify",
+   "label": "spotify",
+   "kind": "skill",
+   "timestamp": 1790631460,
+   "category": "home",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "ffmpeg-montage",
+   "label": "ffmpeg-montage",
+   "kind": "skill",
+   "timestamp": 1788919615,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "find-nearby",
+   "label": "find-nearby",
+   "kind": "skill",
+   "timestamp": 1788310721,
+   "category": "home",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "grounded-citations",
+   "label": "grounded-citations",
+   "kind": "skill",
+   "timestamp": 1790424257,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries",
+   "label": "paper-summaries",
+   "kind": "skill",
+   "timestamp": 1790930824,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "claude-design",
+   "label": "claude-design",
+   "kind": "skill",
+   "timestamp": 1791972335,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "generative-patterns",
+   "label": "generative-patterns",
+   "kind": "skill",
+   "timestamp": 1788065730,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "storyboard",
+   "label": "storyboard",
+   "kind": "skill",
+   "timestamp": 1788463122,
+   "category": "creative",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "openhue",
+   "label": "openhue",
+   "kind": "skill",
+   "timestamp": 1790547971,
+   "category": "home",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "songwriting",
+   "label": "songwriting",
+   "kind": "skill",
+   "timestamp": 1787341185,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "shader-sketches",
+   "label": "shader-sketches",
+   "kind": "skill",
+   "timestamp": 1789306679,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review",
+   "label": "literature-review",
+   "kind": "skill",
+   "timestamp": 1790641093,
+   "category": "research",
+   "useCount": 1,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-batch",
+   "label": "paper-summaries-batch",
+   "kind": "skill",
+   "timestamp": 1790388540,
+   "category": "research",
+   "useCount": 6,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "literature-review-review",
+   "label": "literature-review-review",
+   "kind": "skill",
+   "timestamp": 1787151102,
+   "category": "research",
+   "useCount": 17,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "blogwatcher-deep",
+   "label": "blogwatcher-deep",
+   "kind": "skill",
+   "timestamp": 1789578650,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "competitor-news-monitor-local",
+   "label": "competitor-news-monitor-local",
+   "kind": "skill",
+   "timestamp": 1787236678,
+   "category": "research",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "architecture-diagram-lite",
+   "label": "architecture-diagram-lite",
+   "kind": "skill",
+   "timestamp": 1789471066,
+   "category": "creative",
+   "useCount": 3,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "patent-search-ops",
+   "label": "patent-search-ops",
+   "kind": "skill",
+   "timestamp": 1789116136,
+   "category": "research",
+   "useCount": 5,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "generative-patterns-local",
+   "label": "generative-patterns-local",
+   "kind": "skill",
+   "timestamp": 1791160072,
+   "category": "creative",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "paper-summaries-deep",
+   "label": "paper-summaries-deep",
+   "kind": "skill",
+   "timestamp": 1787085742,
+   "category": "research",
+   "useCount": 25,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "rss-feeds-ops",
+   "label": "rss-feeds-ops",
+   "kind": "skill",
+   "timestamp": 1789585028,
+   "category": "research",
+   "useCount": 2,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:0",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1791758126,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:1",
+   "label": "data locations",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1791169222,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:2",
+   "label": "project layout",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1791453450,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:3",
+   "label": "naming rules",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1791596017,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:4",
+   "label": "style guide",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1790406957,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:5",
+   "label": "timezone and hours",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1788835035,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:6",
+   "label": "team conventions",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790648590,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:7",
+   "label": "user prefers short replies",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1790866092,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:8",
+   "label": "people and roles",
+   "kind": "memory",
+   "memorySource": "user",
+   "timestamp": 1791884198,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  },
+  {
+   "id": "memory:lyra:9",
+   "label": "release checklist",
+   "kind": "memory",
+   "memorySource": "memory",
+   "timestamp": 1791947582,
+   "category": "memory",
+   "useCount": 0,
+   "state": "active",
+   "pinned": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "excalidraw",
+   "target": "claude-design"
+  },
+  {
+   "source": "excalidraw",
+   "target": "storyboard"
+  },
+  {
+   "source": "color-palettes",
+   "target": "excalidraw"
+  },
+  {
+   "source": "color-palettes",
+   "target": "shader-sketches"
+  },
+  {
+   "source": "color-palettes",
+   "target": "p5js"
+  },
+  {
+   "source": "patent-search",
+   "target": "polymarket"
+  },
+  {
+   "source": "patent-search",
+   "target": "rss-feeds"
+  },
+  {
+   "source": "rss-feeds",
+   "target": "paper-summaries"
+  },
+  {
+   "source": "rss-feeds",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "rss-feeds",
+   "target": "p5js"
+  },
+  {
+   "source": "recipe-planner",
+   "target": "plant-care"
+  },
+  {
+   "source": "home-inventory",
+   "target": "find-nearby"
+  },
+  {
+   "source": "home-inventory",
+   "target": "recipe-planner"
+  },
+  {
+   "source": "polymarket",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "polymarket",
+   "target": "patent-search-ops"
+  },
+  {
+   "source": "benchmark-reading",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "benchmark-reading",
+   "target": "p5js"
+  },
+  {
+   "source": "competitor-news-monitor",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "dataset-scouting",
+   "target": "rss-feeds-ops"
+  },
+  {
+   "source": "poster-layout",
+   "target": "songwriting"
+  },
+  {
+   "source": "p5js",
+   "target": "poster-layout"
+  },
+  {
+   "source": "title-cards",
+   "target": "ffmpeg-montage"
+  },
+  {
+   "source": "title-cards",
+   "target": "pixel-art"
+  },
+  {
+   "source": "architecture-diagram",
+   "target": "p5js"
+  },
+  {
+   "source": "arxiv",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "arxiv",
+   "target": "p5js"
+  },
+  {
+   "source": "blogwatcher",
+   "target": "polymarket"
+  },
+  {
+   "source": "spotify",
+   "target": "recipe-planner"
+  },
+  {
+   "source": "ffmpeg-montage",
+   "target": "manim-video"
+  },
+  {
+   "source": "ffmpeg-montage",
+   "target": "p5js"
+  },
+  {
+   "source": "find-nearby",
+   "target": "openhue"
+  },
+  {
+   "source": "grounded-citations",
+   "target": "patent-search"
+  },
+  {
+   "source": "grounded-citations",
+   "target": "dataset-scouting"
+  },
+  {
+   "source": "claude-design",
+   "target": "architecture-diagram"
+  },
+  {
+   "source": "claude-design",
+   "target": "shader-sketches"
+  },
+  {
+   "source": "shader-sketches",
+   "target": "generative-patterns-local"
+  },
+  {
+   "source": "literature-review",
+   "target": "blogwatcher-deep"
+  },
+  {
+   "source": "literature-review",
+   "target": "competitor-news-monitor-local"
+  },
+  {
+   "source": "literature-review",
+   "target": "p5js"
+  },
+  {
+   "source": "paper-summaries-batch",
+   "target": "competitor-news-monitor-local"
+  },
+  {
+   "source": "literature-review-review",
+   "target": "competitor-news-monitor-local"
+  },
+  {
+   "source": "blogwatcher-deep",
+   "target": "patent-search"
+  },
+  {
+   "source": "competitor-news-monitor-local",
+   "target": "rss-feeds-ops"
+  },
+  {
+   "source": "competitor-news-monitor-local",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "architecture-diagram-lite",
+   "target": "shader-sketches"
+  },
+  {
+   "source": "patent-search-ops",
+   "target": "paper-summaries-batch"
+  },
+  {
+   "source": "generative-patterns-local",
+   "target": "pixel-art"
+  },
+  {
+   "source": "rss-feeds-ops",
+   "target": "polymarket"
+  },
+  {
+   "source": "memory:lyra:0",
+   "target": "color-palettes"
+  },
+  {
+   "source": "memory:lyra:0",
+   "target": "manim-video"
+  },
+  {
+   "source": "memory:lyra:0",
+   "target": "shader-sketches"
+  },
+  {
+   "source": "memory:lyra:0",
+   "target": "p5js"
+  },
+  {
+   "source": "memory:lyra:1",
+   "target": "find-nearby"
+  },
+  {
+   "source": "memory:lyra:2",
+   "target": "storyboard"
+  },
+  {
+   "source": "memory:lyra:2",
+   "target": "patent-search"
+  },
+  {
+   "source": "memory:lyra:2",
+   "target": "p5js"
+  },
+  {
+   "source": "memory:lyra:2",
+   "target": "color-palettes"
+  },
+  {
+   "source": "memory:lyra:3",
+   "target": "literature-review"
+  },
+  {
+   "source": "memory:lyra:4",
+   "target": "literature-review-review"
+  },
+  {
+   "source": "memory:lyra:4",
+   "target": "recipe-planner"
+  },
+  {
+   "source": "memory:lyra:4",
+   "target": "manim-video"
+  },
+  {
+   "source": "memory:lyra:4",
+   "target": "benchmark-reading"
+  },
+  {
+   "source": "memory:lyra:5",
+   "target": "competitor-news-monitor-local"
+  },
+  {
+   "source": "memory:lyra:5",
+   "target": "competitor-news-monitor"
+  },
+  {
+   "source": "memory:lyra:6",
+   "target": "architecture-diagram"
+  },
+  {
+   "source": "memory:lyra:6",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "memory:lyra:6",
+   "target": "shader-sketches"
+  },
+  {
+   "source": "memory:lyra:6",
+   "target": "patent-search-ops"
+  },
+  {
+   "source": "memory:lyra:7",
+   "target": "poster-layout"
+  },
+  {
+   "source": "memory:lyra:7",
+   "target": "generative-patterns-local"
+  },
+  {
+   "source": "memory:lyra:7",
+   "target": "storyboard"
+  },
+  {
+   "source": "memory:lyra:8",
+   "target": "grounded-citations"
+  },
+  {
+   "source": "memory:lyra:8",
+   "target": "p5js"
+  },
+  {
+   "source": "memory:lyra:8",
+   "target": "generative-patterns-local"
+  },
+  {
+   "source": "memory:lyra:9",
+   "target": "rss-feeds-ops"
+  },
+  {
+   "source": "memory:lyra:9",
+   "target": "literature-review-review"
+  },
+  {
+   "source": "memory:lyra:9",
+   "target": "paper-summaries-deep"
+  },
+  {
+   "source": "memory:lyra:9",
+   "target": "manim-video"
+  }
+ ],
+ "clusters": [],
+ "stats": {
+  "nodes": 51
+ }
+}
