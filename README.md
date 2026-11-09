@@ -11,7 +11,7 @@ It runs on your own computer. If Hermes Agent is installed, the galaxy finds it 
 You need Python 3.8 or newer. You don't need to install anything else.
 
 ```bash
-git clone https://github.com/<you>/hermes-journey-galaxy.git
+git clone https://github.com/themacbeth/hermes-journey-galaxy.git
 cd hermes-journey-galaxy
 python3 galaxy.py
 ```
@@ -31,7 +31,7 @@ Paste this into Hermes, Claude Code, Codex, or any coding agent:
 ```text
 Set up Hermes Journey Galaxy for me and show me my journey.
 
-1. Clone https://github.com/<you>/hermes-journey-galaxy (or use the copy at <path> if it's already here) and cd into it.
+1. Clone https://github.com/themacbeth/hermes-journey-galaxy (or use the copy at <path> if it's already here) and cd into it.
 2. Read AGENTS.md and follow it.
 3. Check my Hermes install with: python3 galaxy.py --detect   (use `python` on Windows)
 4. If it finds Hermes and a profile has skills, start it with: python3 galaxy.py --use-hermes

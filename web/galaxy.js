@@ -193,7 +193,7 @@ function buildDepth(ext) {
   scene.add(motes);
 }
 
-// ---------- core: blue orb with a hint of the NOUS girl, inside a slow dust disk ----------
+// ---------- core: blue orb with a faint emblem, inside a slow dust disk ----------
 const core = { group: new THREE.Group(), form: 0.6, formTarget: 0.6, dim: 1, dimTarget: 1 };
 scene.add(core.group);
 function svgTexture(url, size) {
@@ -229,9 +229,9 @@ async function buildCore() {
   core.orb = new THREE.Mesh(new THREE.SphereGeometry(ORB_R, 64, 64), core.orbMat);
   scene.add(core.orb);
 
-  // the girl: luminance of the dark-mode icon, circle-masked, glowing faintly on the orb's face
+  // the emblem: luminance of web/emblem.svg, circle-masked, glowing faintly on the orb's face
   const tex = await svgTexture("emblem.svg", 1024);
-  core.girlMat = new THREE.ShaderMaterial({
+  core.emblemMat = new THREE.ShaderMaterial({
     uniforms: { map: { value: tex }, op: { value: 0.2 }, tint: { value: new THREE.Color(0x6f9cff) } },
     vertexShader: `varying vec2 vUv; void main(){ vUv = uv; gl_Position = projectionMatrix * modelViewMatrix * vec4(position,1.); }`,
     fragmentShader: `uniform sampler2D map; uniform float op; uniform vec3 tint; varying vec2 vUv;
@@ -239,12 +239,12 @@ async function buildCore() {
         gl_FragColor = vec4(tint * l * m * op, 1.); }`,
     transparent: true, depthWrite: false, blending: THREE.AdditiveBlending,
   });
-  const girl = new THREE.Mesh(new THREE.PlaneGeometry(ORB_R * 1.95, ORB_R * 1.95), core.girlMat);
-  girl.position.z = ORB_R * 1.02; girl.renderOrder = 2; girl.visible = !!tex;
+  const emblem = new THREE.Mesh(new THREE.PlaneGeometry(ORB_R * 1.95, ORB_R * 1.95), core.emblemMat);
+  emblem.position.z = ORB_R * 1.02; emblem.renderOrder = 2; emblem.visible = !!tex;
 
   core.halo = new THREE.Sprite(new THREE.SpriteMaterial({ map: GLOW, color: 0x3a74ff, transparent: true, opacity: 0.45, depthWrite: false, blending: THREE.AdditiveBlending }));
   core.halo.scale.setScalar(ORB_R * 6);
-  core.group.add(core.halo, girl);
+  core.group.add(core.halo, emblem);
 
   // dust disk around the core
   const N = 6000, p = new Float32Array(N * 3), col = new Float32Array(N * 3);
@@ -264,9 +264,9 @@ function updateCore(dt, t) {
   if (!core.orb) return;
   core.form += (core.formTarget - core.form) * Math.min(1, dt * 0.8);
   core.dim += (core.dimTarget - core.dim) * Math.min(1, dt * 2.5);
-  core.group.quaternion.copy(camera.quaternion); // girl + halo always face the viewer
+  core.group.quaternion.copy(camera.quaternion); // emblem + halo always face the viewer
   core.orbMat.uniforms.t.value = t; core.orbMat.uniforms.dim.value = core.dim;
-  core.girlMat.uniforms.op.value = (0.07 + 0.17 * core.form) * core.dim;
+  core.emblemMat.uniforms.op.value = (0.07 + 0.17 * core.form) * core.dim;
   core.halo.material.opacity = 0.35 * core.dim;
   core.disk.material.opacity = 0.6 * core.dim;
   core.disk.rotation.y += dt * 0.03;
