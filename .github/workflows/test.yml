@@ -6,7 +6,7 @@ jobs:
       fail-fast: false
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        python: ["3.9", "3.13"]  # 3.8 is no longer on hosted runners; it was tested locally
+        python: ["3.10", "3.13"]  # older versions are gone from hosted runners; 3.8 was tested locally
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v5
